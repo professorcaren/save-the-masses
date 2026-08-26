@@ -336,16 +336,41 @@ async function analyze() {
       ? 'Reading back a longer speech. This can take a moment&hellip;'
       : 'Reading it back&hellip;');
     const vm = voicedMap(pcm, 16000);
-    // chunk_length_s + stride let Whisper stitch word timings across a
-    // multi-minute speech, not just a single 30s window.
-    const out = await asr(pcm, { return_timestamps: 'word', chunk_length_s: 30, stride_length_s: 5 });
+    // Only stride for genuinely long speeches — on short clips stride_length_s
+    // makes Whisper return text WITHOUT per-word timestamps, which broke the
+    // delivery report. A single 30s window covers most takes.
+    const asrOpts = { return_timestamps: 'word', chunk_length_s: 30 };
+    if (pcm.length / 16000 > 28) asrOpts.stride_length_s = 5;
+    const out = await asr(pcm, asrOpts);
+    const fullText = (out.text || '').trim();
     const words = (out.chunks || []).filter(c => c.timestamp && c.timestamp[0] != null && c.text.trim());
 
-    if (words.length < 3) {
+    // Genuinely nothing said.
+    const spokenWords = fullText.split(/\s+/).filter(Boolean).length;
+    if (spokenWords < 3) {
       $('report').style.display = 'block';
       $('report').innerHTML = '<div class="nomic">That was too short to read. Give it a full run, a sentence or two at least.</div>';
       setStatus('Ready when you are.');
       $('rec').disabled = false;
+      return;
+    }
+
+    // It transcribed, but without usable per-word timing (rare). Still show the
+    // transcript and offer the content verdict — just skip the timing metrics.
+    if (words.length < 3) {
+      lastTranscript = fullText;
+      $('report').style.display = 'block';
+      $('report').innerHTML =
+        '<div class="tscript">' + esc(fullText) + '</div>' +
+        '<p class="ts-key">Heard you, but couldn&rsquo;t time the words on this take, so no pace/pause read this round. Record once more for the full delivery report.</p>';
+      setStatus('Go again for the pacing read.');
+      $('rec').disabled = false;
+      if (EVAL_ENDPOINT) {
+        $('verdictbtn').disabled = false;
+        $('verdictbtn').innerHTML = 'Now hear the room on your argument &rarr;';
+        $('verdictbtnwrap').style.display = '';
+        $('verdict').style.display = 'none';
+      }
       return;
     }
     lastTranscript = (out.text || words.map(w => w.text).join(' ')).trim();
