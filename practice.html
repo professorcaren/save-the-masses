@@ -89,8 +89,8 @@ footer a:hover{color:var(--red)}
 <p class="lede">A mirror for your voice. Rehearse anything you&rsquo;ll deliver in the room: your opening introduction, a single argument, or a whole speech. The Booth reads back your pace, your pauses, and every place you reached for an &ldquo;um.&rdquo; Nothing leaves this page. No upload, no sign-in. Say it, fix one thing, say it again.</p>
 
 <div class="booth">
-  <details class="script">
-    <summary>Optional: paste what you plan to say (lets the Booth check how much of it landed)</summary>
+  <details class="script" id="script">
+    <summary>Optional: paste what you plan to say (or use the &ldquo;written text only&rdquo; button below)</summary>
     <textarea id="target" rows="4" placeholder="Paste your introduction, an argument, or your whole speech here. The Booth compares it against what you actually delivered."></textarea>
   </details>
 
@@ -156,6 +156,10 @@ footer a:hover{color:var(--red)}
     <button id="stop" class="btn-stop" disabled>Stop &amp; read it back</button>
     <span id="timer" class="timer">0:00</span>
   </div>
+  <div class="altmodes">
+    <label class="uploadbtn">Upload audio or video<input id="file" type="file" accept="audio/*,video/*" hidden></label>
+    <button id="textbtn" class="btn-text" style="display:none">Evaluate written text only</button>
+  </div>
   <p id="status" class="status">The first time you use the Booth it downloads a small speech model (about 75&nbsp;MB, then cached). After that it&rsquo;s instant and works offline.</p>
 
   <div id="report" class="report" style="display:none"></div>
@@ -173,6 +177,9 @@ footer a:hover{color:var(--red)}
 .booth textarea{width:100%; border:0; border-top:1px solid var(--rule); background:transparent; color:var(--ink); font-family:'Spectral',serif; font-size:1rem; padding:.7rem .9rem; resize:vertical}
 .booth textarea:focus{outline:none}
 .controls{display:flex; align-items:center; gap:.8rem; flex-wrap:wrap; margin:1rem 0 .4rem}
+.altmodes{display:flex; gap:.7rem; flex-wrap:wrap; align-items:center; margin:.1rem 0 .5rem}
+.uploadbtn,.btn-text{font-family:'Oswald',sans-serif; text-transform:uppercase; letter-spacing:.09em; font-size:.7rem; font-weight:600; padding:.5rem 1rem; border:1px solid var(--rule); background:var(--paper); color:var(--muted); cursor:pointer; border-radius:2px}
+.uploadbtn:hover,.btn-text:hover{color:var(--ink); border-color:var(--ink)}
 .booth button{font-family:'Oswald',sans-serif; text-transform:uppercase; letter-spacing:.1em; font-size:.82rem; font-weight:600; padding:.7rem 1.4rem; border:2px solid var(--ink); background:var(--paper); color:var(--ink); cursor:pointer; border-radius:2px}
 .booth button:hover:not(:disabled){background:var(--ink); color:var(--paper)}
 .booth button:disabled{opacity:.35; cursor:default}
@@ -257,7 +264,7 @@ $('rec').onclick = async () => {
   chunks = [];
   recorder = new MediaRecorder(stream);
   recorder.ondataavailable = e => { if (e.data.size) chunks.push(e.data); };
-  recorder.onstop = analyze;
+  recorder.onstop = () => analyze(new Blob(chunks, { type: recorder.mimeType || 'audio/webm' }));
   recorder.start();
   t0 = performance.now();
   tick = setInterval(() => {
@@ -319,7 +326,7 @@ const sylls = w => {
 };
 const clean = s => s.toLowerCase().replace(/[^a-z' ]/g, '').replace(/\s+/g, ' ').trim();
 
-async function analyze() {
+async function analyze(blob) {
   try {
     if (!asr) {
       setStatus('Loading the speech model. First time only, then it&rsquo;s cached&hellip;');
@@ -331,7 +338,7 @@ async function analyze() {
         }
       });
     }
-    const pcm = await toMono16k(new Blob(chunks));
+    const pcm = await toMono16k(blob);
     setStatus((pcm.length / 16000 > 75)
       ? 'Reading back a longer speech. This can take a moment&hellip;'
       : 'Reading it back&hellip;');
@@ -520,35 +527,71 @@ function renderReport(r) {
     '<ul class="coach">' + coach.map(([ok,t]) => '<li class="' + (ok?'ok':'') + '">' + t + '</li>').join('') + '</ul>';
 }
 
+// ---- Upload an audio or video file instead of recording ----
+$('file').onchange = async (e) => {
+  const f = e.target.files && e.target.files[0];
+  e.target.value = ''; // allow re-selecting the same file
+  if (!f) return;
+  $('rec').disabled = true; $('stop').disabled = true;
+  $('report').style.display = 'none';
+  $('verdictbtnwrap').style.display = 'none';
+  $('verdict').style.display = 'none';
+  setStatus('Reading your file&hellip;');
+  try {
+    await analyze(f);
+  } catch (err) {
+    setStatus('Could not read that file. Try an audio or video file with clear speech.');
+    $('rec').disabled = false;
+    console.error(err);
+  }
+};
+
 // ---- The Room's Verdict (content evaluation via the Worker) ----
+async function runVerdict(transcript, target) {
+  $('verdict').style.display = 'block';
+  $('verdict').innerHTML = '<p class="status">Reading the room&hellip;</p>';
+  try {
+    const r = await fetch(EVAL_ENDPOINT, {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ character: $('character').value, transcript, target: target || '' }),
+    });
+    const data = await r.json();
+    if (!r.ok || data.error) {
+      $('verdict').innerHTML = '<div class="nomic">' + esc(data.error || 'The room could not be reached. Try again.') + '</div>';
+    } else {
+      renderVerdict(data);
+    }
+  } catch (e) {
+    $('verdict').innerHTML = '<div class="nomic">The room could not be reached. Try again.</div>';
+  }
+}
+
 if (EVAL_ENDPOINT) {
   $('verdictbtn').onclick = async () => {
     if (!lastTranscript) return;
     $('verdictbtn').disabled = true;
     $('verdictbtn').textContent = 'Reading the room…';
-    try {
-      const r = await fetch(EVAL_ENDPOINT, {
-        method: 'POST',
-        headers: { 'content-type': 'application/json' },
-        body: JSON.stringify({
-          character: $('character').value,
-          transcript: lastTranscript,
-          target: $('target').value,
-        }),
-      });
-      const data = await r.json();
-      $('verdict').style.display = 'block';
-      if (!r.ok || data.error) {
-        $('verdict').innerHTML = '<div class="nomic">' + esc(data.error || 'The room could not be reached. Try again.') + '</div>';
-      } else {
-        renderVerdict(data);
-      }
-    } catch (e) {
-      $('verdict').style.display = 'block';
-      $('verdict').innerHTML = '<div class="nomic">The room could not be reached. Try again.</div>';
-    }
+    await runVerdict(lastTranscript, $('target').value);
     $('verdictbtn').disabled = false;
     $('verdictbtn').innerHTML = 'Hear the room again &rarr;';
+  };
+
+  // Text-only: judge the written speech with no audio at all.
+  $('textbtn').style.display = '';
+  $('textbtn').onclick = async () => {
+    const txt = $('target').value.trim();
+    if (txt.split(/\s+/).filter(Boolean).length < 8) {
+      $('script').open = true;
+      $('target').focus();
+      setStatus('Paste your speech in the box above, then press “Evaluate written text only” again.');
+      return;
+    }
+    lastTranscript = txt;
+    $('report').style.display = 'none';        // no delivery report without audio
+    $('verdictbtnwrap').style.display = 'none';
+    setStatus('No audio needed. Reading your writing.');
+    await runVerdict(txt, '');
   };
 }
 
