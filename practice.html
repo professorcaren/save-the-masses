@@ -94,6 +94,63 @@ footer a:hover{color:var(--red)}
     <textarea id="target" rows="4" placeholder="Paste your introduction, an argument, or your whole speech here. The Booth compares it against what you actually delivered."></textarea>
   </details>
 
+  <div class="evalrow" id="evalrow" style="display:none">
+    <label>Rehearsing a role? The room will judge your argument as your character.
+      <select id="character">
+        <option value="generic">My character isn&rsquo;t listed: read it as general 1913 craft</option>
+        <optgroup label="Board">
+<option value="young">Art Young</option>
+<option value="dell">Floyd Dell</option>
+<option value="gillmore">Inez Haynes Gillmore</option>
+<option value="reed">John Reed</option>
+<option value="sloan">John Sloan</option>
+<option value="dodge">Mabel Dodge</option>
+<option value="maxeastman">Max Eastman</option>
+</optgroup>
+<optgroup label="Bohemia">
+<option value="cook">George Cram "Jig" Cook</option>
+<option value="hapgood">Hutchins Hapgood</option>
+<option value="glaspell">Susan Glaspell</option>
+</optgroup>
+<optgroup label="Feminism">
+<option value="gilman">Charlotte Perkins Gilman</option>
+<option value="rodman">Henrietta Rodman</option>
+<option value="rauh">Ida Rauh</option>
+<option value="sanger">Margaret Sanger</option>
+<option value="howe">Marie Jenney Howe</option>
+<option value="boyce">Neith Boyce</option>
+</optgroup>
+<optgroup label="ImmigrantCity">
+<option value="vorse">Mary Heaton Vorse</option>
+<option value="simkhovitch">Mary Kingsbury Simkhovitch</option>
+<option value="bourne">Randolph Bourne</option>
+<option value="baker">Sara Josephine Baker</option>
+</optgroup>
+<optgroup label="Labor">
+<option value="haywood">Big Bill Haywood</option>
+<option value="flynn">Elizabeth Gurley Flynn</option>
+<option value="stokes">Rose Pastor Stokes</option>
+</optgroup>
+<optgroup label="RacialJustice">
+<option value="harrison">Hubert Harrison</option>
+<option value="ovington">Mary White Ovington</option>
+<option value="mortonjones">Verina Morton-Jones</option>
+<option value="dubois">W. E. B. Du Bois</option>
+</optgroup>
+<optgroup label="Suffrage">
+<option value="catt">Carrie Chapman Catt</option>
+<option value="crystaleastman">Crystal Eastman</option>
+<option value="blatch">Harriot Stanton Blatch</option>
+<option value="milholland">Inez Milholland</option>
+<option value="dorr">Rheta Childe Dorr</option>
+</optgroup>
+<optgroup label="WildCard">
+<option value="goldman">Emma Goldman</option>
+</optgroup>
+      </select>
+    </label>
+  </div>
+
   <div class="controls">
     <button id="rec" class="btn-rec">Record</button>
     <button id="stop" class="btn-stop" disabled>Stop &amp; read it back</button>
@@ -102,6 +159,9 @@ footer a:hover{color:var(--red)}
   <p id="status" class="status">The first time you use the Booth it downloads a small speech model (about 75&nbsp;MB, then cached). After that it&rsquo;s instant and works offline.</p>
 
   <div id="report" class="report" style="display:none"></div>
+
+  <div id="verdictbtnwrap" style="display:none"><button id="verdictbtn" class="btn-verdict">Now hear the room on your argument &rarr;</button></div>
+  <div id="verdict" class="report" style="display:none"></div>
 
   <p class="disclaimer">The Booth hears only what a microphone can: <b>pace, pauses, and filler</b>. It says nothing about eye contact, your stance, your card discipline, or whether the far seat could hear you. Those stay the room&rsquo;s job. Bring your watchers for the rest.</p>
 </div>
@@ -141,6 +201,22 @@ footer a:hover{color:var(--red)}
 .tscript .hesit{border-bottom:2px dotted var(--red)}
 .ts-key{font-size:.8rem; color:var(--muted); margin:.3rem 0 0}
 .ts-key .filled{color:var(--red); font-weight:700}
+/* Content evaluation (The Room's Verdict) */
+.evalrow{margin:.2rem 0 .6rem}
+.evalrow label{font-family:'Oswald',sans-serif; text-transform:uppercase; letter-spacing:.06em; font-size:.68rem; color:var(--muted); display:block}
+.evalrow select{display:block; margin-top:.4rem; font-family:'Spectral',serif; font-size:1rem; padding:.4rem .5rem; max-width:100%; border:1px solid var(--rule); background:var(--paper); color:var(--ink)}
+.btn-verdict{margin:.4rem 0; font-family:'Oswald',sans-serif; text-transform:uppercase; letter-spacing:.1em; font-size:.82rem; font-weight:600; padding:.7rem 1.4rem; border:2px solid var(--ink); background:var(--paper); color:var(--ink); cursor:pointer; border-radius:2px}
+.btn-verdict:hover:not(:disabled){background:var(--ink); color:var(--paper)}
+.btn-verdict:disabled{opacity:.4; cursor:default}
+.verdict-line{font-family:'Playfair Display',serif; font-weight:800; font-size:1.4rem; line-height:1.25; margin:.2rem 0 1rem}
+.vrow{display:grid; grid-template-columns:6rem 1fr; gap:.4rem .8rem; border-top:1px solid var(--rule); padding:.7em 0; align-items:start}
+.vname{font-family:'Oswald',sans-serif; text-transform:uppercase; font-size:.7rem; letter-spacing:.06em; padding-top:.15em}
+.vband{display:inline-block; font-family:'Oswald',sans-serif; text-transform:uppercase; font-size:.6rem; letter-spacing:.08em; padding:.2em .5em; border-radius:2px; margin-bottom:.3em}
+.vband.Missing{background:var(--red); color:#fff}
+.vband.Developing{background:#c98a00; color:#fff}
+.vband.Landed{background:#3a6b2e; color:#fff}
+.vnote{font-size:1rem}
+.vextra{border-left:3px solid var(--red); padding-left:.9em; margin:1em 0}
 .again{margin-top:1.4rem}
 .nomic{border:1px solid var(--red); padding:1rem; color:var(--red)}
 </style>
@@ -162,6 +238,12 @@ const setStatus = m => { $('status').innerHTML = m; };
 const CRUTCH = ['like','you know','i mean','sort of','kind of','i think','i guess','basically','actually','literally'];
 
 let asr = null, recorder, chunks = [], stream, tick, t0;
+let lastTranscript = "";
+
+// v2 content evaluation endpoint (Cloudflare Worker). Empty => feature hidden.
+const EVAL_ENDPOINT = "https://save-the-masses-eval.neal-caren.workers.dev";
+const esc = s => String(s == null ? "" : s).replace(/[&<>]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
+if (EVAL_ENDPOINT) $('evalrow').style.display = "";
 
 if (!navigator.mediaDevices || !window.MediaRecorder) {
   $('report').style.display = 'block';
@@ -184,6 +266,8 @@ $('rec').onclick = async () => {
   }, 250);
   $('rec').classList.add('live'); $('rec').disabled = true; $('stop').disabled = false;
   $('report').style.display = 'none';
+  $('verdictbtnwrap').style.display = 'none';
+  $('verdict').style.display = 'none';
   setStatus('Listening. Stand up, card at your waist, and deliver it.');
 };
 
@@ -264,9 +348,16 @@ async function analyze() {
       $('rec').disabled = false;
       return;
     }
+    lastTranscript = (out.text || words.map(w => w.text).join(' ')).trim();
     renderReport(analyzeWords(words, vm));
     setStatus('Fix one thing, then go again.');
     $('rec').disabled = false;
+    if (EVAL_ENDPOINT) {
+      $('verdictbtn').disabled = false;
+      $('verdictbtn').innerHTML = 'Now hear the room on your argument &rarr;';
+      $('verdictbtnwrap').style.display = '';
+      $('verdict').style.display = 'none';
+    }
   } catch (e) {
     setStatus('Something went wrong reading that back: ' + (e.message || e));
     $('rec').disabled = false;
@@ -402,6 +493,53 @@ function renderReport(r) {
       stat(r.cleanRun.toFixed(0) + 's', 'longest clean run', false) +
     '</div>' +
     '<ul class="coach">' + coach.map(([ok,t]) => '<li class="' + (ok?'ok':'') + '">' + t + '</li>').join('') + '</ul>';
+}
+
+// ---- The Room's Verdict (content evaluation via the Worker) ----
+if (EVAL_ENDPOINT) {
+  $('verdictbtn').onclick = async () => {
+    if (!lastTranscript) return;
+    $('verdictbtn').disabled = true;
+    $('verdictbtn').textContent = 'Reading the room…';
+    try {
+      const r = await fetch(EVAL_ENDPOINT, {
+        method: 'POST',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify({
+          character: $('character').value,
+          transcript: lastTranscript,
+          target: $('target').value,
+        }),
+      });
+      const data = await r.json();
+      $('verdict').style.display = 'block';
+      if (!r.ok || data.error) {
+        $('verdict').innerHTML = '<div class="nomic">' + esc(data.error || 'The room could not be reached. Try again.') + '</div>';
+      } else {
+        renderVerdict(data);
+      }
+    } catch (e) {
+      $('verdict').style.display = 'block';
+      $('verdict').innerHTML = '<div class="nomic">The room could not be reached. Try again.</div>';
+    }
+    $('verdictbtn').disabled = false;
+    $('verdictbtn').innerHTML = 'Hear the room again &rarr;';
+  };
+}
+
+function renderVerdict(v) {
+  const dims = (v.dimensions || []).map(d =>
+    '<div class="vrow"><div class="vname">' + esc(d.name) + '</div>' +
+    '<div><span class="vband ' + (['Missing','Developing','Landed'].includes(d.band) ? d.band : 'Developing') + '">' +
+    esc(d.band) + '</span><div class="vnote">' + esc(d.note) + '</div></div></div>'
+  ).join('');
+  $('verdict').innerHTML =
+    '<div class="section-head">The Room&rsquo;s Verdict</div>' +
+    '<div class="verdict-line">' + esc(v.oneLine) + '</div>' +
+    dims +
+    (v.strongest ? '<p class="vextra"><b>Strongest moment:</b> ' + esc(v.strongest) + '</p>' : '') +
+    (v.biggestFix ? '<p class="vextra"><b>Your next rep:</b> ' + esc(v.biggestFix) + '</p>' : '') +
+    '<p class="ts-key">The room reads your <b>argument</b>: your claim, your evidence, your answer to the other movements. It is a coach for the ideas, not a grade.</p>';
 }
 </script>
 </main>
