@@ -326,6 +326,21 @@ const sylls = w => {
 };
 const clean = s => s.toLowerCase().replace(/[^a-z' ]/g, '').replace(/\s+/g, ' ').trim();
 
+// "like" is only a filler when a clause/hedge follows it ("like, maybe…",
+// "and like we…"), NOT when it means "such as" ("things like race"). Count it
+// only when the next word is a discourse/hedge cue.
+const LIKE_FILLER_NEXT = new Set(["i","im","i'm","you","we","they","he","she","it","it's","that's","maybe","just","really","um","uh","so","well","yeah","okay","kind","sort"]);
+function likeIsFiller(words, i) {
+  if (clean(words[i].text) !== 'like') return false;
+  const nxt = i + 1 < words.length ? clean(words[i + 1].text) : '';
+  return LIKE_FILLER_NEXT.has(nxt);
+}
+function isCrutchToken(words, i) {
+  const w = clean(words[i].text);
+  if (w === 'like') return likeIsFiller(words, i);
+  return CRUTCH.includes(w);
+}
+
 async function analyze(blob) {
   try {
     if (!asr) {
@@ -422,6 +437,13 @@ function analyzeWords(words, vm) {
   const joined = ' ' + words.map(w => clean(w.text)).join(' ') + ' ';
   const crutch = {};
   for (const c of CRUTCH) {
+    if (c === 'like') {
+      // context-aware: count filler "like", not "such as" like
+      let n = 0;
+      for (let i = 0; i < words.length; i++) if (likeIsFiller(words, i)) n++;
+      if (n) crutch[c] = n;
+      continue;
+    }
     const m = joined.match(new RegExp('\\s' + c.replace(/ /g, '\\s+') + '\\s', 'g'));
     if (m) crutch[c] = m.length;
   }
@@ -430,7 +452,7 @@ function analyzeWords(words, vm) {
   // longest stretch with no filler event (filled pause OR crutch word), in seconds
   const marks = filled.map(f => words[f.atIndex].timestamp[0]);
   for (let i = 0; i < words.length; i++)
-    if (CRUTCH.includes(clean(words[i].text))) marks.push(words[i].timestamp[0]);
+    if (isCrutchToken(words, i)) marks.push(words[i].timestamp[0]);
   marks.push(start, end); marks.sort((a,b) => a-b);
   let cleanRun = 0;
   for (let i = 1; i < marks.length; i++) cleanRun = Math.max(cleanRun, marks[i] - marks[i-1]);
@@ -438,7 +460,7 @@ function analyzeWords(words, vm) {
   // finish: any filler in the final 1.2s, or a trailing over-long last word
   const lastFilledT = filled.length ? Math.max(...filled.map(f => words[f.atIndex].timestamp[0])) : -1;
   const finishClean = !(lastFilledT >= end - 1.2) &&
-                      !(CRUTCH.includes(clean(words[words.length-1].text)));
+                      !isCrutchToken(words, words.length - 1);
 
   const wpm = Math.round(words.length / (dur / 60));
   const filledPerMin = filled.length / (dur / 60);
@@ -465,7 +487,7 @@ function renderReport(r) {
   for (let i = 0; i < r.words.length; i++) {
     if (idxFilled.has(i) && kindAt[i] === 'gap') html += '<span class="filled">[um&hellip;]</span> ';
     const raw = r.words[i].text.trim();
-    const isCrutch = CRUTCH.includes(clean(raw));
+    const isCrutch = isCrutchToken(r.words, i);
     if (idxFilled.has(i) && kindAt[i] === 'inword')
       html += '<span class="hesit" title="an um/uh was likely absorbed here">' + raw + '</span> ';
     else if (isCrutch) html += '<span class="crutch">' + raw + '</span> ';
