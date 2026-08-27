@@ -306,11 +306,18 @@ $('stop').onclick = () => {
 
 // ---- audio helpers ----
 async function toMono16k(blob) {
+  // Close the realtime context in a finally: Chrome caps a document at ~6 live
+  // AudioContexts, so leaking one per take breaks analysis after 6 records (and
+  // pins each take's decoded audio in memory until GC).
   const ac = new (window.AudioContext || window.webkitAudioContext)();
-  const decoded = await ac.decodeAudioData(await blob.arrayBuffer());
-  const off = new OfflineAudioContext(1, Math.max(1, Math.ceil(decoded.duration * 16000)), 16000);
-  const src = off.createBufferSource(); src.buffer = decoded; src.connect(off.destination); src.start();
-  return (await off.startRendering()).getChannelData(0);
+  try {
+    const decoded = await ac.decodeAudioData(await blob.arrayBuffer());
+    const off = new OfflineAudioContext(1, Math.max(1, Math.ceil(decoded.duration * 16000)), 16000);
+    const src = off.createBufferSource(); src.buffer = decoded; src.connect(off.destination); src.start();
+    return (await off.startRendering()).getChannelData(0);
+  } finally {
+    try { await ac.close(); } catch (_) {}
+  }
 }
 
 // Per-10ms voiced/unvoiced map from short-frame RMS with an adaptive threshold.
@@ -576,6 +583,13 @@ $('file').onchange = async (e) => {
   const f = e.target.files && e.target.files[0];
   e.target.value = ''; // allow re-selecting the same file
   if (!f) return;
+  // Guard the full-file decode path: blob.arrayBuffer() + decodeAudioData load
+  // and decode the ENTIRE file, so a big video is a multi-hundred-MB spike.
+  const MAX_MB = 150;
+  if (f.size > MAX_MB * 1024 * 1024) {
+    setStatus('That file is ' + (f.size / 1048576).toFixed(0) + '&nbsp;MB. Please keep uploads under ' + MAX_MB + '&nbsp;MB — trim the clip or export audio only.');
+    return;
+  }
   $('rec').disabled = true; $('stop').disabled = true;
   $('report').style.display = 'none';
   $('verdictbtnwrap').style.display = 'none';
