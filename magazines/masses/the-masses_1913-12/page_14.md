@@ -1,0 +1,93 @@
+G IS BELI
+
+# SEEING IS BELIEVING
+
+George kept stealing glances at her out of the corner of his eye. He was curious, and yet there were few things one could ask this girl.
+
+"Live in New York?" he asked. It was perfectly evident that she didn't.
+
+"W-e-ell," she hesitated. "Not just. I came here from Chillicothe, Ohio. But I like it here—awfully. The skyscrapers do tickle you so; don't they?"
+
+"O, you know," she explained. "When you lean back and look up at 'em, with their high towers all gold up above the highest birds, something just pricks and bubbles in you, and you laugh," and she gave a sort of ecstatic little chirp, like a baby.
+
+"I see," he murmured, more at sea than ever. Was the girl bluffing?
+
+"You know that's all I came for," she went on. "That and the millions of people."
+
+"You mean you came to New York to see the crowds and the skyscrapers?" asked George, sarcastically. You see. George was too wise for that kind of talk.
+
+She nodded. "It seems to me that all my life I heard about nothing but New York. Every time a drummer used to come into Simonds's—Simonds's is where I worked, you know—or when Mr. Petty went East for the fall stock, they used to talk about the Elevated, and the Subway, and the skyscrapers, and Broadway, and—oh, they used to talk so I couldn't sleep thinking of the towers and the roaring and the lights. And so here I am—"
+
+"But how?——"
+
+"O, I know it seems funny to you a girl like me would have enough money to come," she said, with bird-like nods of her little head. "But you see I'm seventeen now, and I began to save when I was eleven. I saved fifty dollars."
+
+At this moment they passed through the eastern door to the great Concourse.
+
+George shot at her rudely: "How much have you got now?"
+
+"Nothing," she replied. And then the marble terrace, and the gracious flight of steps, and the mighty ceiling of starry sky, with the mystical golden procession of the Zodiac marching across it, burst upon her sight. "Oh," she cried, and gripped the marble balustrade hard with her stubby fingers. "This is the beautifullest thing I ever saw in my life!"
+
+"Never mind that!" said George, taking her by the arm. "You come along. I want to talk to you." She could hardly be moved from the terrace. She seemed to have forgotten everything in her rapt wonder at the place. She wanted to know what it was. What were all the people doing, where were they going, why did they go around bumping into each other and never speaking? If it was a railway station, where were the trains, and why was it so beautiful? What was the Zodiac, and why didn't one see it in the sky outside? It suddenly struck George as particularly strange that a girl who professed to come from Chillicothe, Ohio, should know nothing about the Grand Central Station.
+
+"By the way," he said. "Didn't your train from Ohio come to this station?"
+
+"O, dear no," she threw off carelessly. "I crossed the river on a ferry-boat." She had parried that exquisitely. George piloted her as quickly as possible toward the waiting-room. He was very angry; he
+
+14
+
+W HETHER the girl was straight or not, George doesn't know yet. It's a thing you can usually detect in a five minutes' conversation—or anyway, George can. And this case is the more important because George has rather settled ideas about that sort of thing. He is an attractive, more than usually kind-hearted fellow, who has been known to yield to our common weakness for women, and yet who has strict ideas about the position of such creatures in the social scale. I may add that he is abnormally sensitive to attempts upon his money and sympathy, and knows all the tricks.
+
+It seems that he came out of his club on Forty-fourth street just as a girl strolled past. She was a very small girl with fluffy hair, dressed in a cheap blue tailor suit and a round little hat with a feather sticking straight up. Now, it's usual for women to stroll down Forty-fourth street; but it certainly isn't the appropriate promenade for small, shabby girls dressed in mail-order clothes. I wonder the police didn't stop her.
+
+Anyway, there she was; and as George came through the swinging door, she slowed her pace very obviously and grinned at him. Now comes the most amazing part of the story; George fell into step with her and walked along. That may not seem extraordinary to you—but then, you don't belong to a Forty-fourth street club. Why, we never pick up a girl in front of our club. It was the first time George had ever done it, either; and now that he looks back at it, he says that the girl must have hypnotized him from the first. "Going anywhere in particular?" he asked, according to the formula.
+
+She looked up at him frankly, and he noticed, all of a sudden, how extraordinarily innocent her eyes were.
+
+"Yes," she answered, giggling a little. "I'm going with you." She caught her breath, and George wondered, for the first time, if any of his friends would see him. "I've been walking most all night, except I went into the ladies' room at Macy's and slept two hours before they saw me."
+
+"What do you want?" asked George, putting his hand in his pocket, and by this time pretty much ashamed of walking on the street with her. She didn't answer, and he raised his eyes to find hers filled with tears. She stopped right in the middle of the sidewalk, and turned to face him squarely, shaking her small head solemnly to and fro.
+
+"No," she said. "No. I don't want you to pay me for letting you go. I want to talk to you."
+
+Now, if George had been his rational self, he would have either hurled indignantly away, or taken her to one of those hotels in which the region abounds. They were within a few steps of Sixth avenue. But some entirely new feeling made him blush, (George blushing!) and instead he heard himself say: "Let's go over to the waiting-room of the Grand Central Station. We can talk there." So they faced around and walked back past the club toward Fifth avenue. Killing, isn't it?
+
+I can imagine them as they went along rather silently—George uncomfortable at the thought of being seen with her, unaccountably angry with himself for being so, and perhaps wondering what kind she was; and she with chin lifted, seeming to drink in the air and the bustle around her, her gaze fixed on the tops of buildings. It had turned out one of those blue, steely days of early winter.
+
+THE MASSES
+
+John Reed
+
+“Tickle?”
+
+said to himself that he had never been the victim of such flagrant fiction.
+
+"Look here!" he said, as they sat side by side. "How long have you been in New York?"
+
+"About two weeks—but I haven't seen half——"
+
+"And I suppose you've tried to get a job everywhere," George sneered, "but there wasn't any work. And now you are turned out of your room, and they've seized your baggage?"
+
+"O, yes," nodded the girl, a little troubled. "They did all that. But you're mistaken. It wasn't that I couldn't get a job. I didn't try to find a job. You see, I've been riding on the Seeing-New York automobiles all day long every day, and that costs a dollar a ride, and there are so many places they don't go."
+
+George was mad. "O, come," he said. "You can't expect me to believe that. I live here, you know. (George is very proud of being a New-Yorker.) Perhaps if you'd tell me the truth, I could help you."
+
+The girl gave a sudden surprised little chuckle, and bent her round eyes upon him.
+
+"Why, mother always said I was a dreadful fibber. And maybe I made some things sound worse'n they really are. But I guess I know what you mean," she went on gently. "You think I've—that I—with men. But no, no, no," she shook her head. "I know all about things, but I'm a good girl."
+
+George felt a sharp pain in his heart. He had hurt himself. As for the girl, she seemed to dismiss the incident from her mind. There was a pause.
+
+"What are you going to do?" he asked finally, in a stiff voice.
+
+"That's what I wanted to talk to you about," she turned to him a little excitedly. "You see, last night, when I went home to my room she wouldn't let me in; and she said through a crack in the door that she wouldn't give me my clothes. So I walked around thinking what to do. It was so much fun going down the quiet streets in the night and the grey morning that I forgot to think much what I was going to do. And then I slept a little while in Macy's—and—and, well, I'd just about made up my mind when I saw you."
+
+"Well, what?" he asked impatiently.
+
+"Well, I think I've got to see the rest of New York. Only I guess it'll cost money. You see, I've got to eat and sleep. Eat anyway." Here she puckered her brow in a delightful little frown. "And that's what I want to ask your advice about."
+
+The simple-minded recklessness of this fairly took George off his feet. Always providing the story was not a deliberate lie. And, great Heavens, how he wanted to doubt that story!
+
+"Look here!" he said. "You go home to Chillicothe. That's my advice. You go home. Why, you don't know the risks you run in this terrible city! (New Yorkers love their Sodom and Gomorrah.) You could starve to death as easily as not. And as for other things—well, it's lucky you didn't meet some of the men that live in this town. Ugh! (George shuddered to think of some of the monsters that infest Babylon.) Suppose it hadn't been me. Do you know what any man would have thought?"
+
+"Yes," she said unsmilingly. "Just what you thought. And he'd do pretty much what you are doing, too. I'm not afraid of men. I always trusted everybody, and nobody ever did me any harm. O, I've lived through a good deal, and being hungry doesn't scare

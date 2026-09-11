@@ -1,0 +1,9 @@
+8
+
+Drawn by John Sloan
+
+THE MASSES
+
+ENCE
+
+REVERENCE

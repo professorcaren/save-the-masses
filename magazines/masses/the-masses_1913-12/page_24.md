@@ -1,0 +1,7 @@
+THE MASSES.
+
+ALICE BEACH WINTER
+
+Drawn by Alice Beach Winter.
+
+CONFESSING HER SINS

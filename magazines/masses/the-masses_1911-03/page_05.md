@@ -1,0 +1,54 @@
+# THE MASSES
+
+# A MONTHLY MAGAZINE DEVOTED TO THE INTERESTS OF THE WORKING PEOPLE
+
+EDITED BY THOMAS SELTZER
+EUGENE WOOD, PRES. HAYDEN CARRUTH, VICE-PRES. ANDRE TRIDON, SECY.
+THE MASSES PUBLISHING COMPANY 112 E.19TH ST. NEW YORK
+
+# REVOLUTIONARY MEXICO
+
+Vol. 1
+
+NO MATTER what my friends and supporters say, I retire when my present term of office ends, and I shall not serve again, I shall be eighty years old then."
+
+These were the words of General Diaz as quoted in Pearson's Magazine, March, 1908. On another occasion the same year he said to a newspaper man:
+
+"In 1879 when I declared that I was opposed to the re-election to the presidency I was sincere, but later my friends begged me to remain in power for the good of the country."
+
+Whether he was "sincere" in 1879 is of comparatively little moment at the present time. But there can be no question that he is not sincere now. He has refused to listen to the will of the Mexican nation. He has refused it the right to nominate and elect its own president. More than that, he would not even allow the people to nominate their own vice-president. Before each farcical election the citizens of Mexico are regaled with the same old story of Diaz's unwillingness to run for office, of the great sacrifice he is making for the country by accepting the arduous duties of Chief of the Commonwealth, Prince of Peace, and Man of Destiny. It is an old comedy, a comedy eight times reenacted before each so-called election since his rise to power in 1876. There is no longer any novelty in it. The Mexican people are tired of it. They want no sacrifices from Diaz, and since he insists on making them, they have at last determined to end them by force.
+
+As long as Diaz was in complete possession of his physical and mental alertness, there was small chance of his defeat in the game of politics. Mexico seems to have had no man his equal in playing it. But as he aged, his splendid physique degenerated, he became senile, and he lost that wonderful grip he had had on men and affairs which is necessary for despotic rule. He remained the nominal autocrat, but the actual burden of government fell upon less sturdy shoulders than were Diaz's in his prime, and the result was that the beautiful bureaucracy he had organized became thoroughly demoralized. A tyrannical government at its best is odious to a modern civilized people. It is an anachronism, an anomaly, a monstrous relic of the past. But when to the general evils of a despotic form of
+
+THE CO-OPERATIVE PRESS
+15 SPRUCE ST., NEW YORK.
+
+MARCH, 1911
+TIONARY
+By CARLO DE FORNARO
+
+Author of "Diaz, Czar of Mexico"
+
+Drawings by the Author
+
+Diaz and the Revolution
+
+The series of articles to which this is an introduction will deal with the conditions and events in Mexico that led up to the Revolution, with the various Mexican parties fighting to overthrow the present regime, with the complications that are likely to arise therefrom, and with the relation of the United States to Mexico. Fornaro is in close touch with the leaders of the Mexican revolution and is well posted as to the very latest happenings. He has a wealth of interesting and weighty material which will be made public for the first time in these articles in The Masses.—EDITOR.
+
+government are added the mismanagement, the arbitrariness, and the blunders of incompetency, then it becomes intolerable. The people of Mexico grew more and more restless under the wrongs and persecutions of the bungling, inefficient coterie of officials and advisers, with whom Diaz surrounded himself. And finally they broke out into a revolution.
+
+In 1910 the demand that General Reyes, the people's own candidate, should be nominated for vice-president became so insistent, that Diaz was frightened, and sent Reyes away to Europe for two years. General Reyes's followers then transferred their allegiance to Francisco I. Madero, who is now heading the Revolution in Mexico. Madero is the son of the governor of Coahuila. He is rich, cultured, liberal-minded, and patriotic, and is the author of a book dealing with the presidential succession in Mexico. Madero actually had the courage to let his name be put up as candidate for the presidency in the contest of 1910—a thing that had not happened in Mexico for the past twenty-five years. No Mexican before him had dared to do it.
+
+This was an act of usurpation which Porfirio Diaz simply could not permit. He eliminated Madero from the political campaign and the elections by throwing him into jail, in spite of
+
+5
+
+No. 3
+
+the fact that the campaign had proceeded very peacefully and quietly. By so doing Diaz openly repudiated all his hypocritical talk about his unwillingness to be president, and showed his true colors to the Mexicans and Americans. He was afraid of a popular candidate. He had never really meant to leave the presidency until he was driven to it by force of arms.
+
+The Mexican people fear the rule of Porfirio Diaz, but they fear even more the clique of financial buccaneers surrounding him. This financial ring is called the cientifico party. Cientifico means scientific, and the party derives its name from its alertness in the gentle art of grafting. They have reduced graft to a science. In 1904 the cientificos put up Limantour as their candidate for vice-president. The popular opposition to Limantour was so strenuous and violent that Diaz was forced to nominate another man in his place. This man was Ramon Corral, governor of Sonora, also a cientifico. But popularity never threw its mantle over the shoulders of Vice-President Corral. He was hated by the entire Mexican nation.
+
+The government of Mexico has thus for years been in the hands of Czar Diaz and his allies, the cientificos. Under their rule every form of oppression and persecution known to an absolute and corrupt government has been practiced. The system of peonage, the awful conditions under which workingmen are forced to labor, the reduction of a large part of the working population to virtual slavery, the cruel exploitation of the country by American capitalists—all these are the fruits of the rule of Diaz and his cientificos. Freedom of speech and the press is non-existent in Mexico. A systematic policy of repression is pursued, such as can be compared only to the persecution of the Russian revolutionists by the Russian government. All the liberal newspapers, with the exception of the Catholic papers, have been suppressed, and the editors and members of the Reyist and Maderist clubs have been sent to prison or killed or forced to flee to the United States.
+
+But the liberal movement could not be suppressed. The government succeeded only in fanning the flame of rebellion, until it broke out into a conflagration, and the logical outcome was an armed revolution. As long as Porfirio Diaz was in the vigor of his prime he was able to keep

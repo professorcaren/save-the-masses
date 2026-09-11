@@ -1,0 +1,59 @@
+# TEMPLE OF JUSTICE
+
+A Story of the Workings of a Big City Court
+
+[This is the last article dictated by Hugh O. Pentecost before his death in December, 1907. He never saw it for correction.
+
+Minister in an orthodox church, mental scientist, single-taxer, anarchist, at last he reached the Socialist Party, which he joined the year he died. "I was really a Socialist always," he said many times, after he was enrolled, while one of his wonderful smiles would soften the beautiful austerity of his face, "but it took me a long time to find it out."
+
+After expressing horror at the undeserved fate of the Chicago anarchists, hung in 1886, Mr. Pentecost left the church. His sympathy with those in the clutches of the law led him then to study criminal law which he practiced for many years in the courts of New York. For several years he spoke every Sunday morning at Lyric Hall. His oratory was brilliant. His extreme radicalism kept his audiences small as a rule till the last year when there was not even standing room to be found.
+
+Mrs. Pentecost, though disagreeing fundamentally with her husband, came regularly to his lectures with him as she did also to every meeting he attended. When
+
+STANDING about half way between Broadway and the small park that covers the site of the old notorious Mulberry Bend—about half way between wealth and poverty—is a rather handsome building of red brick, trimmed with stone, known as the Criminal Courts Building. It occupies the block bounded by Franklin, Centre, White and Lafayette Streets.
+
+Walking from Broadway eastward, along Franklin Street, almost within a stone's throw of the great business thoroughfare, one sees a steel ligament connecting the court building with another group of buildings occuping the opposite block and known as The Tombs. This is a prison mainly used for the detention befoe trial of unfortunates charged with crime. The ligament, spanning Franklin Street, is popularly called the Bridge of Sighs. Across it pass in the course of the year thousands of prisoners for trial before judges and juries. About half of them, after an imprisonment of a few weeks or many months, go free, for a time or forever. The other half depart for Blackwell's Island, the State Reformatory at Elmira, or the Sing Sing State Prison, the period of their living burial being determined partly by the gravity of their crimes and partly by the temper or temperament of the judge who "sends them away."
+
+How little New Yorkers know about this mil of justice, the New Criminal Courts Building! It has eight large rooms, occasionally nine, devoted to the judicial determination of the fate of arrested persons. There are a Coroner's Court; a City Magistrate's Court, which is commonly called a Police Court; the Court of Special Sessions, which is composed of three judges without juries, for the trial of persons charged with misdemeanor only; four parts of the Court of General Sessions and one part of the Supreme Court, criminal term, for the trial of felonies. These latter consist of crimes ranging from murder in the first degree to being present at an Anarchist meeting. Or a felony may consist in firing a brick through the window of a saloon whose keeper turned the future "felon" into the street after taking all his money in exchange for drinks. Or it may consist in stealing a bridge ticket from the "complainant's" pocket, an offense punishable by five or ten years in a state's prison, according to whether it was done before or after sun-down; or in putting a hand "with intent to steal" into a pocket containing nothing, an offense punishable by half the terms mentioned in the foregoing, sun-up or sun-down being the determining factor. Imagine the feelings of the wretch on his way to Ossining for trying to steal—nothing!
+
+Besides these courts the red building contains the offices of the District Attorney and his many assistants, the grand jury rooms, rooms for de-
+
+By HUGH O. PENTECOST
+With a Drawing by Marjorie Hood
+
+he died there were arranged and carried out conventional services, including the reading of the Bible, prayer, etc. In justice to Mr. Pentecost it must be said, if there are any who ask, that this was not in accordance with any wish of his. This after his death is as inexplicable—or as plain—as many of the tragic features of his life, which in such great measure separated the man personally for all his later years from the radical movement to which he gave his mind and soul.
+
+Manuscript designed for a book of his Lyric Hall lectures was refused by his family to a representative of a committee of his friends who wished to arrange for its publication in accordance with plans Mr. Pentecost had already made. The manuscript was typewritten, corrected, and ready for the printer when Mr. Pentecost died. All this work, except the correcting for which the manuscript had been placed in his hands, had been done by Comrade Bertha W. Howe. She it was who asked
+
+liberation by petit juries, offices for the clerks of the various courts and the awe-inspiring "chambers" of the judges, upon whom devolve the duty of determining the destinies of the pitiful creatures who have been convicted. Few persons can enter one of these private "chambers" without feeling that he is in the presence of a kind of god, an arbiter of the destinies of men, sometimes terrible in his judgment, but much oftener very merciful, considering what he might do "under the law." It is of daily occurrence that one of these humane judges says to a trembling young criminal, "Under the law I might send you to State's Prison for five years, but in view of your youth and your previous good character I shall suspend sentence. Go home, and try to wipe this stain off your life:"
+
+In the Coroner's Court nothing is done except to decide by vote of a jury, generally of smaller mental calibre than the General Sessions juries "upstairs," what the cause was of the death inquired into, and who if any one was responsible for it. Here come all cases of death by accident, of persons found dead by drowning, or in bed, or on the street, of persons who "drop dead," of suicides, of murder, etc. The human interest centers about the accused, the driver of a wagon, a motorman or engine driver, or the one charged with shooting or stabbing the deceased; but more than all about the widow or mother of the deceased who goes on the witness stand, heavily clothed in black, generally only to identify the deceased, which she does in quiet tears or choking sobs.
+
+Perhaps the most interesting to a student of the underworld is the Police Court in the early hours of its session, say from eight or half past eight to half past ten in the morning, especially if it be on a Sunday morning, when may be seen what is euphoniously called "the watch" composed of a long line of "drunk and disorderlies" who have been picked up during the night by police officers—the flotsam and jetsam of city humanity, an indescribable collection of scraps of social sediment. Men and women, still half drunk, unwashed, often splotched with blood from a fall, or a blow received in a fight, or from a policeman's club, sometimes with bandaged heads, generally with "black eyes," the women the same as the men, hats askew, hair falling down, garments in rags and bedrabbled, pitiful, pitiful, pitiful.
+
+Here also are girls and women arrested for "street walking," their faces worth studying, hard generally, brazen occasionally, pathetic not infrequently, with a pathos more heartrending than that of the widow in the Coroner's Court. "It's the first time, your honor," says one of them, head hanging. "Do you know her, officer?" inquires His Honor.
+
+14
+
+for the copy she had prepared, but it was not given her. Mr. Pentecost's Lyric Hall lectures have never been printed, except parts of them which appeared weekly in The Truth Seeker.
+Ida Gatling Pentecost, Hugh O. Pentecost's wife, died in New York a few months ago.
+The fall of 1907 a story by Mr. Pentecost dealing with the lives of criminals appeared in The Broadway Magazine. It was to be followed by others of the same kind, had the author lived. The idea was suggested by the interest his audiences took in the stories he told on the lecture platform. He wished to show that criminals were not unlike the rest of human beings. His stories were full of sympathetic understanding of the motives of those among whom his practice took him and were told with a deep desire to abolish the ban of ostracism under which people are prone to classify those whom the law brands.
+The article appearing here was also intended for magazine publication. Dealing as it dose with the place where Mr. Pentecost's profession took him daily, it is the more regretable that it never received his attention after dictation. It was written from short-hand notes after his death.]
+
+"No, sir; never saw her before."
+What significance, what tragedy.
+"The first time!" Who is she? Perhaps a discouraged shop girl or "saleslady," finally tired of trying to live "like other women" on five dollars a week. Calling his probation officer, a magistrate with one of these young girls before him, told the officer to take her to his private room. Then to the writer, "Wait till I get through here. I want you to see this girl."
+
+After an hour of "discharged," "one dollar fine," "three dollars fine," "one cent fine," (which some bystander proptly pays, not infrequently the officer who made the arrest), "six months in the workhouse," the magistrate and the writer went into the private room. There, shamefaced and in tears, "The first time, your honor" told her story of a lonesome life in the country, the monotonous farm life, the dog baying at night, chickens to be fed in the morning, cow to be milked, endless chores, always the same, every day the same; then the flight to the city, the struggle for existence; and finally this "first time."
+
+"How about father and mother," inquired the magistrate.
+
+"Good people, but they couldn't seem to understand what that life meant to me. They meant to be good to me, I suppose, but they didn't seem to understand."
+
+"Do you want to go back home?"
+Tears, sobs, outbreaking cries, and then,
+"I suppose they won't want me now, but I'll go, I'll go. I didn't think it would come to this."
+His Honor kept her in the matron's care, communicated with her parents, and paid her way home out of his own pocket.
+No citizen's education is complete until he sits besides a city magistrate and sees "the watch" disposed of.
+
+In the Court of Special Sessions from one to two hundred cases are ruled off each court day. Petit larcenies, fist fights, bastardy cases, cruelty to animals, keeping live chickens in the city limits, selling watered milk and hundreds of other kinds of cases are tried here. The index of the Penal Code shows fifteen pages of misdemeanors, triable in this court, with an average of over fifty crimes to the page; for a low estimate, say six hundred different statutory offenses are liable to land one before the Special Sessions Judges. How do so many of us escape? Is it because we are not detected? How do we know that we are not committing one or more of these six hundred offenses every day? Many respectable people find themselves in this Court, and convicted too, almost before they know what has occurred, for, though the mills of the gods grind slowly, the mill of this particular court is geared up to a high rate of speed. Over ten thousand cases were disposed of in
