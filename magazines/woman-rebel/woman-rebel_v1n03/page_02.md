@@ -47,10 +47,6 @@ or financially prepared to accept and care for.
 
 Holland is perhaps the only country in which artificial restriction has been extended to the poor, instead of, as in other countries, being adopted by the rich and educated classes only. Members of the medical profession there have openly approved and helped to extend artificial restriction; and not only has health, as shown by the death
 
-```markdown
-
-```
-
 rate and infantile mortality, improved faster than in any other country in the world, but it was stated at the recent Eugenics Congress that the stature of the Dutch people was increasing more rapidly than that of any other country by no less than four inches within the last fifty years. The explanation is that the knowledge of hygienic methods of limitation by the workers enables them to have smaller families which they can look after better.
 
 Abortion is at times justified where prevention fails, but when once the damnable prudery and hypocrisy of society have been sufficiently exposed to enable people to discuss preventive means openly, there will then be much less cause for abortions, and people will work together for a common benefit and contribute their experiences for the use of all.

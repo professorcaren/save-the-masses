@@ -34,10 +34,6 @@ People your geography lesson with workers, on the boats, in the mills, on the fi
 
 ## RETRIBUTION
 
-```markdown
-
-```
-
 Masters, harken! list the crying! Hear the sobbing and the sighing! Starving children, pleading, dying, Oh, ye masters of the bread!
 
 Cannot hear them? Will not need them?
@@ -71,15 +67,7 @@ Tell the children the history of their own class. Their heroism, their subjectio
 
 Tell the children of the wretchedness and squalor and poverty of the workers. But fill them with the great hope for emancipation from that misery by their individual and concerted effort. Tell the children, they want to know.
 
-```markdown
-
-```
-
 ## J. EDWARD MORGAN
-
-```markdown
-
-```
 
 Oh, the fierce, red-litten glory
 Of that pay-morn grand and gory
@@ -99,10 +87,6 @@ Hail triumphant, glorious ending,
 To the hell-bent, age-long bending
 Of the slave hordes, rising, rending
 Gyve and chain with the foe on foe.
-
-```markdown
-
-```
 
 Falling, halting, pleading, flying, Terror-crazed and quarter crying Slave with slave impassioned vying Who can glut the direst hate. Oh, the wild and 'wildering splendor Of the morn when Slaves shall render Tool to every smug offender— Tool deferred with tragic wait.
 

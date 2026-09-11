@@ -87,4 +87,3 @@ Lady! A slave and bondswoman! She has sold her woman's body for costly accessori
 To be a willing slave. Is that not the most shameful thing possible to a human being! But all the same she is "a perfect lady"! Lady! If anyone should compose for me some day an epitaph, I wish it may be written: "At least she was no lady."
 
 And yet, what is a woman to do? What is a girl brought up in a rich family to do? Such a girl is usually entirely dependent upon her parents, whose ideals in life are probably dividends and social power. None dares to speak openly to her of sexual truths, and her own natural exual dignity is cheated by the false appearance of successful attainment in the marriage bargain. Not only is she dependent upon her parents, but they have accustomed her to luxury, and she has become dependent upon luxuries by force of habit. When
-

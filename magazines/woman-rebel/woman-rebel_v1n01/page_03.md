@@ -34,10 +34,6 @@ the advent of a free motherhood lest it might wars? Who would create wealth? Eit
 
 trcss, where now habit blinds us to the existence of danger and evil. . . . It must be prepared to meet opposition, from every quarters fierce outcry, bitter antagonism, and the ridicule and slander of fanaticism.
 
-```markdown
-
-```
-
 ## DIRECT ACTION
 VOLTAIRINE DE OLEYRE
 
@@ -48,10 +44,6 @@ If its a telegraph strike it means cutting wires and poles and getting fake scab
 ICKET
 
 dren!—How hopeful! Not that children should be taken from the factories and put into schools and playgrounds! That would be getting off their little crooked backs. But ever willing to color it a little and to trim it a bit they will accomplish all that was ever intended to do with their vote.
-
-```markdown
-
-```
 
 The Rebel Women claim:
 The Right to be lazy.

@@ -29,10 +29,6 @@ THE UNMARRIED MOTHER
 
 The ideal of a free union belongs to the attainment of the new erotic ethics which will uplift man and woman in that sphere where now the spirit of slavery and of obtuseness under a holy name degrade them; where social con-
 
-```markdown
-
-```
-
 Motherhood is sacred. Everybody agrees on that point-at least in an abstract way. But how long has motherhood really been regarded as sacred?
 
 In Europe it was the custom until quite recently for a woman of all classes, both Catholic and Protestant, to go to church after having arisen from child-birth. But this mother could not enter the church before she had been purified by the priest or minister, she had to kneel outside in the entrance and wait for him to say a prayer over her that petitioned Almighty God to forgive her for her sin of becoming a mother, before she was worthy of entering the house of God.

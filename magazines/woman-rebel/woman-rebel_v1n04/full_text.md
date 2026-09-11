@@ -131,10 +131,6 @@ THE UNMARRIED MOTHER
 
 The ideal of a free union belongs to the attainment of the new erotic ethics which will uplift man and woman in that sphere where now the spirit of slavery and of obtuseness under a holy name degrade them; where social con-
 
-```markdown
-
-```
-
 Motherhood is sacred. Everybody agrees on that point-at least in an abstract way. But how long has motherhood really been regarded as sacred?
 
 In Europe it was the custom until quite recently for a woman of all classes, both Catholic and Protestant, to go to church after having arisen from child-birth. But this mother could not enter the church before she had been purified by the priest or minister, she had to kneel outside in the entrance and wait for him to say a prayer over her that petitioned Almighty God to forgive her for her sin of becoming a mother, before she was worthy of entering the house of God.
@@ -286,10 +282,6 @@ If you dare to be free even one day, you will be thrust out by your fellows, ano
 But you? The means of life will be gone for you; the price of your freedom will be poverty and death.
 
 In that monster army of modern industrial life the penalty of desertion is death. There is no way of living for you in the wild outside of it. The woods and the fields and the rivers and all the rich, beautiful country all belong to individuals of whom you know nothing and who know nothing of you, who care nothing for you. They will not permit you to take to your use so much earth as may fill a flower-pot—hands off! it is private property! Let the human body perish; the law allows it, and will even provide for you a pauper's grave. But let the sacred rights of private property be in the least degree violated, and the law in all its
-
-```markdown
-
-```
 
 EDMOND McKENNA
 
@@ -509,10 +501,6 @@ This office is informed by the Assistant Attorney General for the Post Office De
 Here is Section 480 of the Postal Laws and Regulations—Section 211 of the Criminal Code:
 
 "Every obscene, lewd, or lascivious, and every filthy book, pamphlet, picture, paper, letter, writing, print, or other publication of an indecent character, and every article or thing designed, adapted, or intended for preventing conception or producing abortion, or for any indecent or immoral use; and every article, instrument, substance, drug, medicine, or thing which is advertised or described in a manner calculated to lead another to use or apply it for preventing conception or producing abortion, or for any indecent or immoral purpose; and every written or printed card, letter, circular, book, pamphlet, advertisement, or notice of any kind giving information, directly or indirectly, where, or how, or from whom, or by what means any of the hereinbefore-mentioned matters, articles, or things may be obtained or made, or where or by whom any act or operation of any kind for the procuring or producing of abortion will be done or performed, or how or by what means conception may be prevented or abortion produced, whether sealed or unsealed; and every letter, packet, or package, or other mail matter containing any filthy, vile, or indecent thing, device, or substance; and every paper, writing, advertisement, or representa-
-
-```markdown
-
-```
 
 THE WOMAN REBEL
 

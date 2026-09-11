@@ -294,19 +294,11 @@ Q.—Are not artificial methods of restricting families bad for the health?
 
 A.—It used to be thought so. But within the last few years it has become clear that there is no justification for this belief.
 
-```markdown
-
-```
-
 The workers of America are always emptying their pockets for everlasting defense funds. The leaders and the agitators are always making their eloquent, frantic, irresistible appeals for money. Money is collected to sustain and give work to that ever-growing group of pseudo-radical lawyers who seldom do anything toward keeping the revolutionary issue clear cut and definite, who fight cases on technicalities and who, in spite of extraordinary goodwill and sympathy with the revolutionist, can not—it goes without saying—be of any use in the fight of the revolutionist with the forces of Government and Exploitation.
 
 The workers themselves must carry on the battle-by acting, by living it, by keeping alive with renewed effort those very ideas that the Powers of Darkness are trying to stamp out.
 
 Revolution does not grow by the contribution of a few pennies or a few dollars to some defense fund. You must create revolution by living it not by mushy sentimentality over some comrade who has tried to act not according to the modern commercialism of the so-called radical agitator and publisher, who is just daring enough to keep out of jail and just hypocritical enough to make
-
-```markdown
-
-```
 
 (a) Doctors nearly all have small families nowadays.
 (b) The Presidents of the British Association and of the American Medical Association have both spoken in favor of family limitation.
@@ -332,10 +324,6 @@ Those who are already aware of the importance of the work must realize that only
 No defense fund-but that does not mean that help is not needed. It means that greater activity and greater solidarity must be brought into play.
 
 No time should be lost in forming organizations to discuss the idea of Birth Control and to increase the activity of all working women who are conscious of the attempt of the Government to invade their most private rights and powers.
-
-```markdown
-
-```
 
 53
 
@@ -398,10 +386,6 @@ THE RABELAIS PRESS
 27 NEW BOWERY
 NEW YORK CITY
 
-```markdown
-
-```
-
 ## MEDICAL AUTHORITIES
 
 "The use of preventive measures has come to play an important part in the sexual life of woman and therefore deserves the fullest attention not merely from the standpoint of the sociologist, but in addition from the purely medical point of view. A preventive check, in so far as it is voluntary is peculiar to the human species and originates in the intellectual faculty which enables man to foresee the consequences of his actions. A man who looks around him, and sees the poverty into which those with large families so often fall, who reckons up his present property or earnings, cannot fail to doubt whether it would be possible for him to provide for the offspring he might bring into the world." IWAN BLOOM.
@@ -443,10 +427,6 @@ Margaret H. Sanger,
 New York Cit Dear Fellow Wor
 
 I am enclosing you Fifty Cents for a six months sub to your Woman Rebel; I have seen a copy of it and hail a publication of its kind with the feeling that it fills a long felt want. This country is particularly cursed with working
-
-```markdown
-
-```
 
 Mother of Four,
 Eureka, Calif.
@@ -490,10 +470,6 @@ F. N. W.
 F. N. W.
 
 "Ignorance, poverty and vice are populating the world. The gutter is a nursery. People, even unable to support themselves, fill the tenements, the huts and the hovels with the children.... At the same time they do not want children, because a child is a curse, a curse to them and to itself."—Robert Ingersoll on Parental Prudence.
-
-```markdown
-
-```
 
 65
 

@@ -20,10 +20,6 @@ I have no right to demand rights! I have no desires to be free! I have no feelin
 
 I have no desire to be free, for I am free. I have no rights of rights for I create all rights. I have no feeling to be the master of men, for I am the master of all. I am Cleopatra.
 
-## ```markdown
-
-```
-
 Cleopatra was born in Egypt 69 B. C. Her father Ptolemaios the Avlitis saw her will power, and decided that she should reign with her youngest brother after his death. So he engaged her to her brother Ptolemaios the XII. Cleopatra when 17 years of age was leading the world of men. She was the ruler of all Egypt.
 
 Every man under similar circumstances will be glad in order to keep the leadership of men to marry any girl. Men are always weak. Their strength is not a feeling, it is accidental, it is co-operative. Men claim they rule by reason notwithstanding that they are not sincere to themselves. But Cleopatra could not be false to herself. She did not love the one her father picked for her. She did not have to love on account of her condition and she decided to reign herself alone.

@@ -46,7 +46,3 @@ TO THE PRISONER IN SIBERIA
 Anna Karenikoff
 
 They call him unlettered This Russian long fettered, He is not fitted for Liberty, they cry. He has gained more knowledge Than men learn at college, He knows how to suffer; he knows how to die.
-
-```markdown
-
-```

@@ -1,0 +1,78 @@
+# THE WORKING CLASS ASTONISH BRUSSELS
+
+# The Socialist Co-operator Tackles the Class Unconscious Worker
+
+HAVE just returned from participating in the manifestation of the fifteenth of August for universal suffrage, one man, one vote, from the age of twenty-one; for compulsory education; and against the Schollaert law favoring clerical schools. It was a manifestation of both Liberals and Socialists
+
+CINEMA
+
+Photographed for THE MASSES.
+
+from all Belgium, although the red flowers of Socialism far outnumbered the blue of Liberalism. For months past the Socialists have been carrying on a vehement campaign of publicity upon these issues, and have been calling on the people to demonstrate their convictions on this day. The Liberals have also campaigned, but in the quieter liberal way. A special brochure was issued by the Socialist press, explaining in detail the history and meaning of the three propositions, and the town has been flooded with large
+
+"In the retail trade, and that's where most Socialist Co-operatives will begin, Co-operation will do away with the middleman. The members of the Co-operative will hire somebody to run their store for them, pay him wages and buy all their goods at cost prices."
+
+"Then I can buy grub there for less than at a regular store?"
+
+"You can; and if you inquire you'll find that the Socialists in your town are trying to establish such a co-operative right now."
+
+"And can I join?"
+
+"They'll be only too glad to have you."
+
+"And will I have as much to say in running it as if I was a Socialist?"
+
+"Just exactly as much."
+
+"And will I get what I buy just as cheap?"
+"Yes, your money will be refunded to you at exactly the same percentage as
+
+# The Wonderful Manifestation of the Fifteenth of August. Seen at First Hand.
+
+Written for THE MASSES
+
+By RUFUS JAMES TRIMBLE
+
+In Belgium there still exists what is known as the "plural vote"—that is, certain persons favored by birth or education can cast more than one ballot in the elections while those less fortunate have their opinions on public matters discounted by a large percentage. The demonstration described in this article was for the purpose of impressing on the government the peoples' desire for a relief from this oppressive and unjust system.—Editor.
+
+colored posters and dotted with little bills two inches in diameter stuck anywhere and everywhere.
+
+THE clericalis, the party in power in Belgium, to counteract these measures have had their own notices and have influenced the children of their schools to tear down the small Socialist bills. As I passed a clerical school the other day I saw a quaint scene enacted. A party of school girls were sauntering by the doorway, when one of them noticed a Socialist bill there and went forward to tear it down; however, another sprang forward and grasped her arm; there was a slight tussle, but the young radical succeeded in placing herself before the bill, where she remained, leaning against the wall, until the party moved on. Such a spirit of loyalty is indeed shown by all the Socialists when they manifest as they did today, 150,000 strong.
+
+AFTER the splendid exhibition of marching, and the ability to handle crowds displayed by the managers, I could no longer say that I thought the continental was not a good business man. At least it would not be true as regards the executive ability of the Belgian Socialist.
+
+This morning the parade formed in the Northern districts of the town and marched, in the perfect order planned, through streets lined with spectators, without the aid of the usual cordon of police.
+
+Generator Tackles the Class U
+
+it is refunded to the oldest man in the party."
+
+"That sounds all right and I can see if there ain't any middleman that I can buy stuff for less; but I never saw anybody give something away to an outsider yet. They don't do it. You've got a string tied somewhere to that proposition."
+
+"You're right, my friend, there is a string tied to it. We're not giving you something for nothing because we can't afford to do that sort of business. We're giving you something and in return we're going to be repaid by something very much more valuable than any dividends you may pull out; we're going to get you."
+
+"That's the idea—you. Probably you'll join the store just to get food cheaper, but you're going to end by being a full-
+
+13
+
+13
+
+AFTER walking about two miles to the southern end of the city, the cortege broke into several columns, entering a large park by separate roads. As I looked down from the summit of a near-by hill it seemed as if the columns would never end; as soon as I thought all had arrived new columns would appear in other directions until the immense field was swarming with people. Scattered about the park were a dozen platforms, and about these the crowds gathered to listen to the orators of the day, Liberals and Socialists. And it was then that they raised their hands in air and took the oath: "The workers
+
+6
+
+All the speakers' stands were thronged about with eager listeners. This is Stand Number Six.
+
+and the democrats of Belgium, assembled together the fifteenth of August at Brussels, in a solemn manifestation, swear to struggle without truce or repose until the definite withdrawal of the projected Schollaert law and until the realization of compulsory education and universal suffrage, pure and simple."
+
+AFTER the second set of speakers had finished, the people began to return to their homes, but a large part remained clustered about two of the stands until late in the afternoon.
+
+The crowd was the same crowd I have seen in America so often, for no matter how much nationalities may differ in their bourgeois, the working classes of all are fundamentally the same.
+
+fledged Socialist. After you buy our groceries you're going to read our literature and go to our lectures and join our party. You can't help it because you'll be getting a practical assurance of the fact that if the working class can manage the essentials of life at retail they can manage them at wholesale and can turn the United States into a great Co-operative Commonwealth."
+
+"But look here, are you a regular Socialist?"
+
+"A dues paying party member. I'm only preaching what the last International Congress of Socialists recommended."
+
+"H-m, well, maybe I was mistaken after all. I never knew there was anything practical about Socialism. What's a good Socialist book to read and, say, where are those fellows that are starting the Co-operative?"

@@ -86,10 +86,6 @@ ELIZABET
 
 The woman rebel's minor actions in life, her social and marital arrangements are free, flexible and original; the things that are unchangeable, are her principles, her ideals. With the bondswoman the reverse is the case; her ideals and principles change constantly, her thoughts and her dress rarely. The woman rebel has strong and rooted conceptions, but as for her dinner she has it sometimes in bed, or on the roof or in a boat. She argues from the same fundamental principles,
 
-```markdown
-
-```
-
 several years, the new movement is sadly lacking in vitality, force, and conviction.
 
 Any movement with fear lurking in the background, fear of the press, of public opinion, of our neighbors, or of the enemy, can not have that spirit which fearlessness of opposition brings. it is not for rights women should ask, all rights are here—rather is it for you to inculcate into her the desire to get these rights.
@@ -113,10 +109,6 @@ OMAN REBEL
 TH KLEEN
 
 but she does it anywhere; in bed or in a bath or in a balloon. The present-day prevalence of good habits involves a too great emphasis on those virtues which only Custom can ensure and too little emphasis on those virtues which Custom can never ensure—sudden and splendid virtues of inspiration; of noble achievement; of lofty ambition. A working woman can get used to getting up at five o'clock, but how many can get used to being imprisoned for their convictions or shot at for their ideals?
-
-```markdown
-
-```
 
 How many could be a Voltairine de Clayre, a Louise Michel, an Emma Goldman or an Elizabeth Flynn?
 
@@ -179,10 +171,6 @@ the advent of a free motherhood lest it might wars? Who would create wealth? Eit
 
 trcss, where now habit blinds us to the existence of danger and evil. . . . It must be prepared to meet opposition, from every quarters fierce outcry, bitter antagonism, and the ridicule and slander of fanaticism.
 
-```markdown
-
-```
-
 ## DIRECT ACTION
 VOLTAIRINE DE OLEYRE
 
@@ -193,10 +181,6 @@ If its a telegraph strike it means cutting wires and poles and getting fake scab
 ICKET
 
 dren!—How hopeful! Not that children should be taken from the factories and put into schools and playgrounds! That would be getting off their little crooked backs. But ever willing to color it a little and to trim it a bit they will accomplish all that was ever intended to do with their vote.
-
-```markdown
-
-```
 
 The Rebel Women claim:
 The Right to be lazy.
@@ -279,10 +263,6 @@ Prohibition of work for wages and enforced homekeeping are tyrannous exactions t
 ---
 ## Page 5
 
-```markdown
-
-```
-
 # MY SONG
 (A PROSE POEM)
 
@@ -361,14 +341,6 @@ Mary Woolstonecraft refused to obey the laws of her age, or to curtsey as she wa
 
 agea. Dow
 echoes of th
-
-```markdown
-
-```
-
-```markdown
-
-```
 
 that interest find and join hands with public sentiment- , and then will rally all the seekers of special privilege. The tide of pensions will grow.
 
@@ -461,10 +433,6 @@ I have no right to demand rights! I have no desires to be free! I have no feelin
 
 I have no desire to be free, for I am free. I have no rights of rights for I create all rights. I have no feeling to be the master of men, for I am the master of all. I am Cleopatra.
 
-## ```markdown
-
-```
-
 Cleopatra was born in Egypt 69 B. C. Her father Ptolemaios the Avlitis saw her will power, and decided that she should reign with her youngest brother after his death. So he engaged her to her brother Ptolemaios the XII. Cleopatra when 17 years of age was leading the world of men. She was the ruler of all Egypt.
 
 Every man under similar circumstances will be glad in order to keep the leadership of men to marry any girl. Men are always weak. Their strength is not a feeling, it is accidental, it is co-operative. Men claim they rule by reason notwithstanding that they are not sincere to themselves. But Cleopatra could not be false to herself. She did not love the one her father picked for her. She did not have to love on account of her condition and she decided to reign herself alone.
@@ -542,10 +510,6 @@ THE WOMAN REBEL
 THE PREVENTION
 
 Is there any reason why women should not receive clean, harmless, scientific knowledge on how to prevent conception? Everybody is aware that the old, stupid fallacy that such knowledge will cause a girl to enter into prostitution has long been shattered. Seldom does a prostitute become pregnant. Seldom does the girl practicing promiscuity become pregnant. The woman of the upper middle class have all available knowledge and implements to prevent conception. The woman of the lower middle class is struggling for this knowledge. She tries various methods of prevention, and after a few years of experience plus medical advice succeeds in discovering some method suitable to her individual self. The woman of the people is the only one left in ignorance of this information. Her neighbors, relatives and friends tell her stories of special devices and the success of them all. They tell her also of the blood-sucking men with M. D. after their names who perform operations for the price of so-and-so
-
-```markdown
-
-```
 
 ---
 

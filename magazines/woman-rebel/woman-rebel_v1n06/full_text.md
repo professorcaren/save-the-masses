@@ -154,10 +154,6 @@ People your geography lesson with workers, on the boats, in the mills, on the fi
 
 ## RETRIBUTION
 
-```markdown
-
-```
-
 Masters, harken! list the crying! Hear the sobbing and the sighing! Starving children, pleading, dying, Oh, ye masters of the bread!
 
 Cannot hear them? Will not need them?
@@ -191,15 +187,7 @@ Tell the children the history of their own class. Their heroism, their subjectio
 
 Tell the children of the wretchedness and squalor and poverty of the workers. But fill them with the great hope for emancipation from that misery by their individual and concerted effort. Tell the children, they want to know.
 
-```markdown
-
-```
-
 ## J. EDWARD MORGAN
-
-```markdown
-
-```
 
 Oh, the fierce, red-litten glory
 Of that pay-morn grand and gory
@@ -219,10 +207,6 @@ Hail triumphant, glorious ending,
 To the hell-bent, age-long bending
 Of the slave hordes, rising, rending
 Gyve and chain with the foe on foe.
-
-```markdown
-
-```
 
 Falling, halting, pleading, flying, Terror-crazed and quarter crying Slave with slave impassioned vying Who can glut the direst hate. Oh, the wild and 'wildering splendor Of the morn when Slaves shall render Tool to every smug offender— Tool deferred with tragic wait.
 
@@ -375,8 +359,6 @@ To be a willing slave. Is that not the most shameful thing possible to a human b
 
 And yet, what is a woman to do? What is a girl brought up in a rich family to do? Such a girl is usually entirely dependent upon her parents, whose ideals in life are probably dividends and social power. None dares to speak openly to her of sexual truths, and her own natural exual dignity is cheated by the false appearance of successful attainment in the marriage bargain. Not only is she dependent upon her parents, but they have accustomed her to luxury, and she has become dependent upon luxuries by force of habit. When
 
-
-
 ---
 ## Page 6
 
@@ -465,10 +447,6 @@ doctrine of evolution with its "survival of the fittest", "struggle for existenc
 
 The evolutionist, like the madman, is in a prison—the prison of one idea. These people seem to think it singularly surprising if the worker suddenly flings to the wind all social theories and raises the banner "No Masters". The system must go on, they say. The time is not yet "ripe" for a change. The "machinery of government" and the "machinery of production" must be captured and so on. Nothing is really interesting to them, such as direct action, sabotage, the removal of a tyrant or the sudden taking over of a mine or a factory or of a farm. To tell the workers that they must wait for the accumulation of capital and for the "economic development" of the capitalist regime is like telling a prisoner in the penitentiary that he would be glad to hear that the jail now covers the state of New York. The jailer would have nothing to show the prisoner except more and more long
 
-```markdown
-
-```
-
 47
 
 corridors of stones lit by ghastly lights and empty of all that is human. So these expanders and evolutionists have nothing to show us except more and more infinite multitudes of wage slaves empty of all individuality, courage, idealism, humanity and spirit, and hopelessly submissive to the demigods of Capital.
@@ -497,10 +475,6 @@ Send orders to
 MARGARET H. SANGER,
 
 34 Post Avenue, N. Y. City.
-
-```markdown
-
-```
 
 ---
 ## Page 8

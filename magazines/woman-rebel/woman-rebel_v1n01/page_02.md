@@ -29,10 +29,6 @@ ELIZABET
 
 The woman rebel's minor actions in life, her social and marital arrangements are free, flexible and original; the things that are unchangeable, are her principles, her ideals. With the bondswoman the reverse is the case; her ideals and principles change constantly, her thoughts and her dress rarely. The woman rebel has strong and rooted conceptions, but as for her dinner she has it sometimes in bed, or on the roof or in a boat. She argues from the same fundamental principles,
 
-```markdown
-
-```
-
 several years, the new movement is sadly lacking in vitality, force, and conviction.
 
 Any movement with fear lurking in the background, fear of the press, of public opinion, of our neighbors, or of the enemy, can not have that spirit which fearlessness of opposition brings. it is not for rights women should ask, all rights are here—rather is it for you to inculcate into her the desire to get these rights.
@@ -56,10 +52,6 @@ OMAN REBEL
 TH KLEEN
 
 but she does it anywhere; in bed or in a bath or in a balloon. The present-day prevalence of good habits involves a too great emphasis on those virtues which only Custom can ensure and too little emphasis on those virtues which Custom can never ensure—sudden and splendid virtues of inspiration; of noble achievement; of lofty ambition. A working woman can get used to getting up at five o'clock, but how many can get used to being imprisoned for their convictions or shot at for their ideals?
-
-```markdown
-
-```
 
 How many could be a Voltairine de Clayre, a Louise Michel, an Emma Goldman or an Elizabeth Flynn?
 

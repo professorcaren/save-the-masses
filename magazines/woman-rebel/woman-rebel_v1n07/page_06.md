@@ -54,10 +54,6 @@ THE RABELAIS PRESS
 27 NEW BOWERY
 NEW YORK CITY
 
-```markdown
-
-```
-
 ## MEDICAL AUTHORITIES
 
 "The use of preventive measures has come to play an important part in the sexual life of woman and therefore deserves the fullest attention not merely from the standpoint of the sociologist, but in addition from the purely medical point of view. A preventive check, in so far as it is voluntary is peculiar to the human species and originates in the intellectual faculty which enables man to foresee the consequences of his actions. A man who looks around him, and sees the poverty into which those with large families so often fall, who reckons up his present property or earnings, cannot fail to doubt whether it would be possible for him to provide for the offspring he might bring into the world." IWAN BLOOM.

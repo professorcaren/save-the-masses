@@ -104,10 +104,6 @@ Captivating, cajoling, bribing and threatening by turns, garbed in a neat riding
 
 Neglected by her parents and relatives in her childhood, Thérouigne ran away from home at the age of fifteen and became governess to an Englishwoman of culture. They journeyed to London and it was here that Thérouigne's charms aroused the love of a wealthy young Englishman. She eloped with her lover and journeyed to Paris. But the somewhat dissolute habits of the man caused her to terminate the alliance. She plunged into the gay life of London and Paris. Her musical talents were successful wherever she went. She was fresh, lithe and charming, and lavishly exercised her power to gather
 
-```markdown
-
-```
-
 87
 
 laurels and inspiring passion. Her lovers were many and there is no doubt she extracted considerable wealth from them.

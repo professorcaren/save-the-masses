@@ -38,10 +38,6 @@ doctrine of evolution with its "survival of the fittest", "struggle for existenc
 
 The evolutionist, like the madman, is in a prison—the prison of one idea. These people seem to think it singularly surprising if the worker suddenly flings to the wind all social theories and raises the banner "No Masters". The system must go on, they say. The time is not yet "ripe" for a change. The "machinery of government" and the "machinery of production" must be captured and so on. Nothing is really interesting to them, such as direct action, sabotage, the removal of a tyrant or the sudden taking over of a mine or a factory or of a farm. To tell the workers that they must wait for the accumulation of capital and for the "economic development" of the capitalist regime is like telling a prisoner in the penitentiary that he would be glad to hear that the jail now covers the state of New York. The jailer would have nothing to show the prisoner except more and more long
 
-```markdown
-
-```
-
 47
 
 corridors of stones lit by ghastly lights and empty of all that is human. So these expanders and evolutionists have nothing to show us except more and more infinite multitudes of wage slaves empty of all individuality, courage, idealism, humanity and spirit, and hopelessly submissive to the demigods of Capital.
@@ -70,7 +66,3 @@ Send orders to
 MARGARET H. SANGER,
 
 34 Post Avenue, N. Y. City.
-
-```markdown
-
-```

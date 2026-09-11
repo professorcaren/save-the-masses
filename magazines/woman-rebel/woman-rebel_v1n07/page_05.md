@@ -40,19 +40,11 @@ Q.—Are not artificial methods of restricting families bad for the health?
 
 A.—It used to be thought so. But within the last few years it has become clear that there is no justification for this belief.
 
-```markdown
-
-```
-
 The workers of America are always emptying their pockets for everlasting defense funds. The leaders and the agitators are always making their eloquent, frantic, irresistible appeals for money. Money is collected to sustain and give work to that ever-growing group of pseudo-radical lawyers who seldom do anything toward keeping the revolutionary issue clear cut and definite, who fight cases on technicalities and who, in spite of extraordinary goodwill and sympathy with the revolutionist, can not—it goes without saying—be of any use in the fight of the revolutionist with the forces of Government and Exploitation.
 
 The workers themselves must carry on the battle-by acting, by living it, by keeping alive with renewed effort those very ideas that the Powers of Darkness are trying to stamp out.
 
 Revolution does not grow by the contribution of a few pennies or a few dollars to some defense fund. You must create revolution by living it not by mushy sentimentality over some comrade who has tried to act not according to the modern commercialism of the so-called radical agitator and publisher, who is just daring enough to keep out of jail and just hypocritical enough to make
-
-```markdown
-
-```
 
 (a) Doctors nearly all have small families nowadays.
 (b) The Presidents of the British Association and of the American Medical Association have both spoken in favor of family limitation.
@@ -78,9 +70,5 @@ Those who are already aware of the importance of the work must realize that only
 No defense fund-but that does not mean that help is not needed. It means that greater activity and greater solidarity must be brought into play.
 
 No time should be lost in forming organizations to discuss the idea of Birth Control and to increase the activity of all working women who are conscious of the attempt of the Government to invade their most private rights and powers.
-
-```markdown
-
-```
 
 53

@@ -43,10 +43,6 @@ THE PREVENTION
 
 Is there any reason why women should not receive clean, harmless, scientific knowledge on how to prevent conception? Everybody is aware that the old, stupid fallacy that such knowledge will cause a girl to enter into prostitution has long been shattered. Seldom does a prostitute become pregnant. Seldom does the girl practicing promiscuity become pregnant. The woman of the upper middle class have all available knowledge and implements to prevent conception. The woman of the lower middle class is struggling for this knowledge. She tries various methods of prevention, and after a few years of experience plus medical advice succeeds in discovering some method suitable to her individual self. The woman of the people is the only one left in ignorance of this information. Her neighbors, relatives and friends tell her stories of special devices and the success of them all. They tell her also of the blood-sucking men with M. D. after their names who perform operations for the price of so-and-so
 
-```markdown
-
-```
-
 ---
 
 On another page of this paper space will be devoted to the actions and views of the woman of all ages in all walks of life who have rebelled against oppression and who have fought for their individual freedom and the emancipation of their sex.

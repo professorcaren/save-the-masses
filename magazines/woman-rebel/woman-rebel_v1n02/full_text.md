@@ -93,14 +93,6 @@ race, " and other high-sounding illu sions.
 
 Our aim is not to defend the prac tice of the so-called "criminal opera tions," but to point out the absurdity of the laws which make them necessary and inevitable. The laws against the circulation of knowledge concerning the prevention of conception have cre ated the profitable business of the abortion quacks. It is necessary here only to quote the opinion of an expert on the subject, Dr. Klotz-Forest: "Leg- ally abortion is a crime. Honestly and scientifically it is not. One can only hope that good sense will triumph in the end, and that abortion, performed by an able practitioner in the best hygienic surroundings, will soon come to be regarded as useful, necessary, and humane, even in a case in which a woman requests it for no other reason than that she does not wish to have a child, that it is not her pleasure to be come a mother."
 
-```markdown
-
-```
-
-```markdown
-
-```
-
 If woman is to free herself effectively, she must make herself absolute mistress of her own body. She must recognize her absolute right to dispose of herself, to give herself, to withhold herself, to procreate, or to suppress the germ of life. The day a woman becomes a mother at will she will not be far from complete emancipation. Only a ridiculous idea of love and of the act of reproduction, an idea handed down from the infamous Christian religion, could have led women to forget that she alone has the right to decide.
 
 POVERTY AND ETHER
@@ -110,10 +102,6 @@ In all industrial centres, poverty and large families go hand in hand. No matter
 Wherever large families exist, there child labor exists, as does also the greatest percentage of childrens' diseases and deaths.
 
 The percentage of large families reaches its maximum among the cotton mill families of Fall River, Mass. There, one third of all these families have not less than nine children each. The same is true of Warwick, Rhode Island, and other cotton mill groups. Along with this the mortality of infants under
-
-```markdown
-
-```
 
 It has been estimated that twenty years ago 80,000 abortions were performed yearly in New York City alone. Lately nobody has attempted to gather statistics on the subject for the present day. They would present a curious comment on the enforcement of laws forbidding "illegal operations" and the general ignorance concerning methods of preventing conception. Thousands of women who wish to spare children-to-be the torture of a miserable existence have no alternative except to submit to the torture and ignorance of quacks who are fattening upon these enlightened laws of a Christian country.
 
@@ -186,10 +174,6 @@ What puzzles us is did she mean it seriously? Or was Mrs. Christopher having a l
 
 ## AMUSEMENT
 
-```markdown
-
-```
-
 The attitude of those fashionable ladies who are working for the suffrage "cause" has been revealed in a letter written to one of the daily papers by a bewildered suffragist—who happens to be a working woman. How deeply the American suffragists concern themselves with the wrongs and the problems of the millions of women workers is strikingly shown in these lines from "a working suffragist's" letter:
 
 "Here the leader is a fighter, I am assured. This appeals to me, warms me up, makes me feel that here things other than leaders' speeches may happen—but I find that working-women are not encouraged, since they have no money to give, no time to work. Then the rich women, the women who hold meetings in expensive hotels for other rich women—I wonder, can they teach me anything, and I find they can—a holy horror of them and their unspeakable patronage of the worker of any grade.
@@ -202,23 +186,13 @@ CONVE
 
 When women-feminists, radicals, calling themselves free-women, arrive at a place in life where they are compelled to face and defy conventions, they seldom do it. Go over a list of your acquaintances and see how few of them have been big enough or brave enough to live up to their principles or ideals. They will tell you that marriage really means nothing to them, that they recognize it is an institution which is nothing but forced prostitution upon the woman, they agree that only a union of two people based upon love should justify a continuous union, that the marriage license has nothing to do with love, that it is the marriage law
 
-
-
 11
 
 ## TWO SISTERS
 
 Two sisters—daughters of a police man—only two years apart in age; one worked six years in one place for six dollars a week; was content and happy, day in and day out, year in and year out, until at the end of six years she received eight dollars—she was content, obedient and happy, giving no trouble the other, two years her junior, was never satisfied—could not get along with the boss—often out of work—had strong desires—consequently stole things she wanted—and lands in the House of Correction.
 
-## ```markdown
-
-```
-
 I'rogress depends on the individual with strong desires on the individual who is not satisfied. Woman's freedom depends on the woman with strong desires, who is not content with anything less than her complete emancipation. But she will fight and continue to fight and not sit with folded hands and be satisfied with half-way measures. The junior daughter was by far in my estimation a superior individual to the slave, the "job-minded" sister.
-
-## ```markdown
-
-```
 
 The tragedy of this little story is not the slave, who is happy to work for six years for $6 a week to enrich a master.
 
@@ -280,10 +254,6 @@ Anna Karenikoff
 
 They call him unlettered This Russian long fettered, He is not fitted for Liberty, they cry. He has gained more knowledge Than men learn at college, He knows how to suffer; he knows how to die.
 
-```markdown
-
-```
-
 ---
 ## Page 5
 
@@ -309,10 +279,6 @@ They would extinguish the light of reason if they could reach it.
 
 Terrible is the slowly-rising vengeance of the industrial worker. Terrible will be the white anger of the worker; only to be appeased with the blood of these hirelings; these uniformed brutes, minions of a brigand class.
 
-## ```markdown
-
-```
-
 Yes. Our comrades have been beaten—trampled upon like flowers. But the fragrance of their deeds fills the Earth; the sorrowing earth!
 
 ## HOW IT WORKS!
@@ -333,10 +299,6 @@ THE WOMAN REBEL
 MARIE SP
 
 (Marie Spiridonova, the Russian girl revolutionist, was arrested some years ago for taking active part in the Russian revolutionary movement. Before her trial, the Czar's soldiers entered her cell one night. After having abused her they assaulted her in turns, beat and kicked her until she was nearly dead.
-
-```markdown
-
-```
 
 Spiridonova! What dread sign art thou?
 Woman, we are afraid of thee!
@@ -372,17 +334,9 @@ She was one of those fiery, rebellious spirits that no law could tame. She did d
 
 Trained by her unmarried parents to be a teacher, she passed with high honors the State examination for school teachers. Louise first showed the nature of the spirit that was in her by refusing to take the oath of allegiance to Emperor Napoleon, thus losing her appointment. Nothing daunted, she struck out on her own, and started a little school at Andelonecourt, which became a hot-bed of sedition and the veriest thorn in the flesh to the local authorities. Twice every day, morning and evening, the "Marseillaise" would
 
-```markdown
-
-```
-
 Two days later, the officer in charge of the soldiers was killed by a bomb. The real criminal, the Czar, still lives.
 
 The following is the fragment of a poem, dedicated to the memory of Spiridenova, who is now undergoing a life sentence with hard labor, in Siberia.
-
-```markdown
-
-```
 
 Up from the halls of infamous memory
 To crowd about thy helpless flesh
@@ -414,10 +368,6 @@ be sung in her schoolroom, in open defiance of police warnings and threats.
 At the age of 26 she went to Paris. At this time the ruling class were beginning to lose their wisdom as later some of them lost their lives. The extravagance of the Court and the Emperor; ostentatious displays of luxury combined with the orgies and profligacies of the idle rich were making the Parisian proletarian think. Danger loomed ahead for the ruling class, and when in 1870, Prince Buonaparte killed Victor Noir, journalist and friend of Henri Rochefort, in revenge for a libel on the Emperor, and the murder was condoned by Buonaparte, Louise Michel determined to avenge the wrong with her own hand. Unfortunately, before she could obtain an audience, war was declared, and Napoleon left Paris, never to return.
 
 That year during the famous siege of Paris, Louise Michel nursed the wounded, foraged for the hungry and fought behind the barricade. No one in Paris was more fearless than she. With bullets flying over her head, she would stand at a barricade, drinking
-
-```markdown
-
-```
 
 13
 
@@ -511,35 +461,13 @@ WHAT T
 
 "I want to express my great interest in THE WOMAN REBEL. A sheet which will express woman honestly and fearlessly just now can do great things. We need it tremendously. If you can give the gift of anti-conception to the workingwomen, the French revolution will indeed pale in contrast. Smaller families will of course only give momentary economic relief, but the other result of it, the benefit to the power of the working class and to the race we can only faintly imagine."
 
-```markdown
-
-```
-
-## ```markdown
-
-```
-
 "Keep up the fire, spouting redhot lead into the conventional camp!"
-
-## ```markdown
-
-```
 
 "Strength to your right arm!! THE WOMAN REBEL is the real thing. I've read it, every line. And I'm going to shout it to everyone who ought to read it."
 
 "It looks good to the eye, feels good under the fingers and, best of all, feels good inside one's head and chest. Your little paper is full of flame and honey, and has the ringing, triumphant note of the unconquerable ones. This Woman Rebel has brains and breasts. May it never flag nor fail."
 
-```markdown
-
-```
-
-## 
-
 "I admire your frankness and fearlessness. Hope you'll be able to keep it up. We need a 'stinger.'"
-
-## ```markdown
-
-```
 
 "I want to tell you how bully fine THE WOMAN REBEL is—the first unveiled female head raised in this country—and I'm thinking that we're
 
@@ -556,47 +484,19 @@ HEY SAY
 
 going to discover very shortly that the immediate question of the hour isn't an ism, but is free speech and free printing. Strength to you!''
 
-## ```markdown
-
-```
-
 "I want to express my surprise and delight at your noble enterprise, THE WOMAN REBEL. It is a sublime dedication to the oppressed cause of our sex-a cause I have also been devoting my life to."
 
 "Hurrah for THE WOMAN REBEL! . . . It is highest time some American woman took up the cudgels against these damned hypocritical laws on the prevention of conception. This is preeminently a woman's fight, and men who use these preventives every night have been allowed to pass and enforce such laws long enough."
 
-```markdown
-
-```
-
 "While I was looking at its pages on my way home in the subway a rubberneck liked the lines that ran something like go to hell look and offered me a dime for the paper. Of course I sold it and took the money too. Now you may have the dime and use it for some more of the hot stuff.
-
-```markdown
-
-```
-
-## ```markdown
-
-```
 
 "I congratulate you most heartily on having produced an extraordinarily fine and inspiring little paper. It promises to be exactly what is needed-a fearless defiance thrown in the teeth of law, custom and ignorant prejudice."
 
-## ```markdown
-
-```
-
 "Heartiest congratulations to The Rebel Woman! I read this first issue from cover to cover—and am a-thirst for more. It sounds the true note of sincerity, earnestness, intelligence and
-
-```markdown
-
-```
 
 15
 
 courage. I like its Revolutionary purpose; I like its clear-cut, uncompromising, unapologetic attitude. It is an inspiration."
-
-## ```markdown
-
-```
 
 "Dear Woman Rebel, go to it! It is a beautiful fight, and there is lots of room in the ranks. Here is my $ to keep posted for a year on the way you carry on your part of it. If you ever have a rebellious thought, don't forget it or throw it away, unless you have one that is stronger.
 

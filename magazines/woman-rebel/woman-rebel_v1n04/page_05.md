@@ -65,10 +65,6 @@ But you? The means of life will be gone for you; the price of your freedom will 
 
 In that monster army of modern industrial life the penalty of desertion is death. There is no way of living for you in the wild outside of it. The woods and the fields and the rivers and all the rich, beautiful country all belong to individuals of whom you know nothing and who know nothing of you, who care nothing for you. They will not permit you to take to your use so much earth as may fill a flower-pot—hands off! it is private property! Let the human body perish; the law allows it, and will even provide for you a pauper's grave. But let the sacred rights of private property be in the least degree violated, and the law in all its
 
-```markdown
-
-```
-
 EDMOND McKENNA
 
 city place among the books;

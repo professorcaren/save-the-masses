@@ -25,10 +25,6 @@ New York Cit Dear Fellow Wor
 
 I am enclosing you Fifty Cents for a six months sub to your Woman Rebel; I have seen a copy of it and hail a publication of its kind with the feeling that it fills a long felt want. This country is particularly cursed with working
 
-```markdown
-
-```
-
 Mother of Four,
 Eureka, Calif.
 
@@ -71,10 +67,6 @@ F. N. W.
 F. N. W.
 
 "Ignorance, poverty and vice are populating the world. The gutter is a nursery. People, even unable to support themselves, fill the tenements, the huts and the hovels with the children.... At the same time they do not want children, because a child is a curse, a curse to them and to itself."—Robert Ingersoll on Parental Prudence.
-
-```markdown
-
-```
 
 65
 

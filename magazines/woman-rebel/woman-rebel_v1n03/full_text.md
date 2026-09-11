@@ -102,10 +102,6 @@ or financially prepared to accept and care for.
 
 Holland is perhaps the only country in which artificial restriction has been extended to the poor, instead of, as in other countries, being adopted by the rich and educated classes only. Members of the medical profession there have openly approved and helped to extend artificial restriction; and not only has health, as shown by the death
 
-```markdown
-
-```
-
 rate and infantile mortality, improved faster than in any other country in the world, but it was stated at the recent Eugenics Congress that the stature of the Dutch people was increasing more rapidly than that of any other country by no less than four inches within the last fifty years. The explanation is that the knowledge of hygienic methods of limitation by the workers enables them to have smaller families which they can look after better.
 
 Abortion is at times justified where prevention fails, but when once the damnable prudery and hypocrisy of society have been sufficiently exposed to enable people to discuss preventive means openly, there will then be much less cause for abortions, and people will work together for a common benefit and contribute their experiences for the use of all.
@@ -174,27 +170,11 @@ REBEL T
 
 Love is moral even without legal marriage, but marriage is immoral without love.
 
-## ```markdown
-
-```
-
 Eventually it will come to pass that no finely sensitive woman will become a mother except through mutual love; that this motherhood sanctioned legally or not so sanctioned shall be considered the only true motherhood, and every other motherhood untrue. Thus will mankind awaken to such a feeling of the "sanctity of the generation'" and to such an understanding of the conditions of the health, strength and beauty of the race, that every marriage which has its source in worldly or merely sensual motives, or in reason of prudence in a feeling of duty shall be considered "a criminal counterfeiting of the highest values of life."—"
-
-```markdown
-
-```
-
-## ```markdown
-
-```
 
 ## THERESA BILLINGTON GRFIG
 
 But it is not alone by the inadequacy and failure of peaceable methods in the past and by the demonstrated certainty of their greater failures in the future that the tactics of rebellion are justified. They are justified also by the history of human liberty as recorded in the chronicles of nations. Every agitation for liberty has won success by revolt and sacrifice. Our own history (English) from the days of unlimited monarchy until now, is a record of rebellions from which liberties have been reaped. Our highest regard is given to those who made the history of the past
-
-```markdown
-
-```
 
 19
 
@@ -216,15 +196,9 @@ The Book of My Life, by John Rompapas, Rabelais Press, 27-29 New Bowery, N. Y.
 
 glorious and became law-breakers for the freedom of the people. That the women who are rebels and law breakers to-day are carrying on the same fight and suffering for the same human liberty is not recognized.
 
-## ```markdown
-
-```
-
 ## HELEN KELLER
 
 "Why is it?" I asked, "why is it that so many workers live in unspeakable misery?" With their hands they have built great cities and they cannot be sure of a roof over their heads. With their hands have they opened mines and dragged forth with the strength of their bodies the buried sunshine of dead forests, and they are cold. They have gone down into the bowels of the earth for diamonds and gold, and they haggle for a loaf of bread. With their hands they erect temples and palaces and their habitation is a crowded room in a tenement. They plough and sow and fill our hands with flowers while their own are full of husks.—Helen Keller.
-
-## 
 
 ## OLIVE SCHREINER
 

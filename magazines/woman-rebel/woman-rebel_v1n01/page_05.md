@@ -1,7 +1,3 @@
-```markdown
-
-```
-
 # MY SONG
 (A PROSE POEM)
 
@@ -80,14 +76,6 @@ Mary Woolstonecraft refused to obey the laws of her age, or to curtsey as she wa
 
 agea. Dow
 echoes of th
-
-```markdown
-
-```
-
-```markdown
-
-```
 
 that interest find and join hands with public sentiment- , and then will rally all the seekers of special privilege. The tide of pensions will grow.
 

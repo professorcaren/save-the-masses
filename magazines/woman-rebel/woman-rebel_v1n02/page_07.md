@@ -14,35 +14,13 @@ WHAT T
 
 "I want to express my great interest in THE WOMAN REBEL. A sheet which will express woman honestly and fearlessly just now can do great things. We need it tremendously. If you can give the gift of anti-conception to the workingwomen, the French revolution will indeed pale in contrast. Smaller families will of course only give momentary economic relief, but the other result of it, the benefit to the power of the working class and to the race we can only faintly imagine."
 
-```markdown
-
-```
-
-## ```markdown
-
-```
-
 "Keep up the fire, spouting redhot lead into the conventional camp!"
-
-## ```markdown
-
-```
 
 "Strength to your right arm!! THE WOMAN REBEL is the real thing. I've read it, every line. And I'm going to shout it to everyone who ought to read it."
 
 "It looks good to the eye, feels good under the fingers and, best of all, feels good inside one's head and chest. Your little paper is full of flame and honey, and has the ringing, triumphant note of the unconquerable ones. This Woman Rebel has brains and breasts. May it never flag nor fail."
 
-```markdown
-
-```
-
-## 
-
 "I admire your frankness and fearlessness. Hope you'll be able to keep it up. We need a 'stinger.'"
-
-## ```markdown
-
-```
 
 "I want to tell you how bully fine THE WOMAN REBEL is—the first unveiled female head raised in this country—and I'm thinking that we're
 
@@ -59,47 +37,19 @@ HEY SAY
 
 going to discover very shortly that the immediate question of the hour isn't an ism, but is free speech and free printing. Strength to you!''
 
-## ```markdown
-
-```
-
 "I want to express my surprise and delight at your noble enterprise, THE WOMAN REBEL. It is a sublime dedication to the oppressed cause of our sex-a cause I have also been devoting my life to."
 
 "Hurrah for THE WOMAN REBEL! . . . It is highest time some American woman took up the cudgels against these damned hypocritical laws on the prevention of conception. This is preeminently a woman's fight, and men who use these preventives every night have been allowed to pass and enforce such laws long enough."
 
-```markdown
-
-```
-
 "While I was looking at its pages on my way home in the subway a rubberneck liked the lines that ran something like go to hell look and offered me a dime for the paper. Of course I sold it and took the money too. Now you may have the dime and use it for some more of the hot stuff.
-
-```markdown
-
-```
-
-## ```markdown
-
-```
 
 "I congratulate you most heartily on having produced an extraordinarily fine and inspiring little paper. It promises to be exactly what is needed-a fearless defiance thrown in the teeth of law, custom and ignorant prejudice."
 
-## ```markdown
-
-```
-
 "Heartiest congratulations to The Rebel Woman! I read this first issue from cover to cover—and am a-thirst for more. It sounds the true note of sincerity, earnestness, intelligence and
-
-```markdown
-
-```
 
 15
 
 courage. I like its Revolutionary purpose; I like its clear-cut, uncompromising, unapologetic attitude. It is an inspiration."
-
-## ```markdown
-
-```
 
 "Dear Woman Rebel, go to it! It is a beautiful fight, and there is lots of room in the ranks. Here is my $ to keep posted for a year on the way you carry on your part of it. If you ever have a rebellious thought, don't forget it or throw it away, unless you have one that is stronger.
 

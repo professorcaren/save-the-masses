@@ -9,14 +9,6 @@ race, " and other high-sounding illu sions.
 
 Our aim is not to defend the prac tice of the so-called "criminal opera tions," but to point out the absurdity of the laws which make them necessary and inevitable. The laws against the circulation of knowledge concerning the prevention of conception have cre ated the profitable business of the abortion quacks. It is necessary here only to quote the opinion of an expert on the subject, Dr. Klotz-Forest: "Leg- ally abortion is a crime. Honestly and scientifically it is not. One can only hope that good sense will triumph in the end, and that abortion, performed by an able practitioner in the best hygienic surroundings, will soon come to be regarded as useful, necessary, and humane, even in a case in which a woman requests it for no other reason than that she does not wish to have a child, that it is not her pleasure to be come a mother."
 
-```markdown
-
-```
-
-```markdown
-
-```
-
 If woman is to free herself effectively, she must make herself absolute mistress of her own body. She must recognize her absolute right to dispose of herself, to give herself, to withhold herself, to procreate, or to suppress the germ of life. The day a woman becomes a mother at will she will not be far from complete emancipation. Only a ridiculous idea of love and of the act of reproduction, an idea handed down from the infamous Christian religion, could have led women to forget that she alone has the right to decide.
 
 POVERTY AND ETHER
@@ -26,10 +18,6 @@ In all industrial centres, poverty and large families go hand in hand. No matter
 Wherever large families exist, there child labor exists, as does also the greatest percentage of childrens' diseases and deaths.
 
 The percentage of large families reaches its maximum among the cotton mill families of Fall River, Mass. There, one third of all these families have not less than nine children each. The same is true of Warwick, Rhode Island, and other cotton mill groups. Along with this the mortality of infants under
-
-```markdown
-
-```
 
 It has been estimated that twenty years ago 80,000 abortions were performed yearly in New York City alone. Lately nobody has attempted to gather statistics on the subject for the present day. They would present a curious comment on the enforcement of laws forbidding "illegal operations" and the general ignorance concerning methods of preventing conception. Thousands of women who wish to spare children-to-be the torture of a miserable existence have no alternative except to submit to the torture and ignorance of quacks who are fattening upon these enlightened laws of a Christian country.
 
